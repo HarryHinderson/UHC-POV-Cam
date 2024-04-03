@@ -4,6 +4,20 @@ A port of [madman-bob](https://github.com/madman-bob/Homestuck-POV-Cam)'s Homest
 
 Download this mod as a ZIP file, extract it, and place it into your mods folder within the UHC asset pack. [Here's a guide for installing mods](https://github.com/Bambosh/unofficial-homestuck-collection/blob/main/MODDING.md#installing-mods)
 
+### Harry Hinderson Additional Characters Branch
+
+Top Priority:
+Uber Bunny, Writ Keeper, Jaspers, GCat, Dad (B2)
+
+Medium Priority:
+Other B2 Agents, Andrew Hussie, Ms. Paint, Auto Responder
+
+Low Priority:
+Maplehoof, Hussiebot, Serenity, Casey
+
+Bottom Priority:
+Black King (B1), Black Queen (B1), White Queen (B2), Dirkbot, Troll Lusii, Sawtooth, Squarewave
+
 ## Changelog
 
 ### v0.7
