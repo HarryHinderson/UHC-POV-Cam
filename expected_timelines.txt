@@ -23,6 +23,10 @@ AR
 WQ
 WK
 
+jaspers
+gcat
+serenity
+
 jacknoir
 draconiandignitary
 hegemonicbrute
@@ -99,6 +103,3 @@ meenah
 calliope
 caliborn
 lordenglish
-
-jaspers
-gcat
