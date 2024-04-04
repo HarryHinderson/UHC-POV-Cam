@@ -13,7 +13,7 @@ Medium Priority:
 Other B2 Agents, Andrew Hussie, Ms. Paint, Auto Responder
 
 Low Priority:
-Maplehoof, Hussiebot, Serenity, Casey
+Maplehoof, Hussiebot, ~~Serenity~~, Casey
 
 Bottom Priority:
 Black King (B1), Black Queen (B1), White Queen (B2), Dirkbot, Troll Lusii, Sawtooth, Squarewave
