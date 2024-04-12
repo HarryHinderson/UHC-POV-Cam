@@ -10,7 +10,7 @@ Top Priority:
 Uber Bunny, ~~Writ Keeper~~, ~~Jaspers~~, ~~GCat~~, Dad (B2)
 
 Medium Priority:
-Other B2 Agents, Andrew Hussie, Ms. Paint, Auto Responder
+Other B2 Agents, Andrew Hussie, Ms. Paint, Auto Responder, Seperate BGD
 
 Low Priority:
 Maplehoof, Hussiebot, ~~Serenity~~, Casey
