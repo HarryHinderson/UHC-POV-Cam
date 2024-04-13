@@ -7,7 +7,7 @@ Download this mod as a ZIP file, extract it, and place it into your mods folder 
 ### Harry Hinderson Additional Characters Branch
 
 Top Priority:
-~~Uber Bunny~~, ~~Writ Keeper~~, ~~Jaspers~~, ~~GCat~~, Dad (B2)
+~~Uber Bunny~~, ~~Writ Keeper~~, ~~Jaspers~~, ~~GCat~~, ~~Dad (B2)~~ (Dad Crocker already in flaringk branch)
 
 Medium Priority:
 Other B2 Agents, Andrew Hussie, Ms. Paint, Auto Responder, Seperate BGD
@@ -17,6 +17,10 @@ Maplehoof, Hussiebot, ~~Serenity~~, Casey
 
 Bottom Priority:
 Black King (B1), Black Queen (B1), White Queen (B2), Dirkbot, Troll Lusii, Sawtooth, Squarewave
+
+- Update settings
+- Fully update collide/act 7
+- Fully update homepage
 
 ## Changelog
 
