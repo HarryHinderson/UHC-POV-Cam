@@ -26,6 +26,7 @@ WK
 jaspers
 gcat
 serenity
+bunny
 
 jacknoir
 draconiandignitary
