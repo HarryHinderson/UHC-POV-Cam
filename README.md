@@ -7,7 +7,7 @@ Download this mod as a ZIP file, extract it, and place it into your mods folder 
 ### Harry Hinderson Additional Characters Branch
 
 Top Priority:
-Uber Bunny, ~~Writ Keeper~~, ~~Jaspers~~, ~~GCat~~, Dad (B2)
+~~Uber Bunny~~, ~~Writ Keeper~~, ~~Jaspers~~, ~~GCat~~, Dad (B2)
 
 Medium Priority:
 Other B2 Agents, Andrew Hussie, Ms. Paint, Auto Responder, Seperate BGD
