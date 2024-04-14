@@ -10,7 +10,7 @@ Top Priority:
 ~~Uber Bunny~~, ~~Writ Keeper~~, ~~Jaspers~~, ~~GCat~~, ~~Dad (B2)~~ (Dad Crocker already in boertz branch)
 
 Medium Priority:
-Other B2 Agents, Andrew Hussie, Ms. Paint, Auto Responder, Seperate BGD
+~~Other B2 Agents~~, Andrew Hussie, Ms. Paint, Auto Responder, Seperate BGD
 
 Low Priority:
 Maplehoof, Hussiebot, ~~Serenity~~, Casey
