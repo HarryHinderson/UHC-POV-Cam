@@ -1,0 +1,273 @@
+Name: Con Air Bunny
+Colour: #BFA782
+Image: bunny.png
+Group: Kids' Supporters
+
+Be in con air
+7184
+	8088-8091
+<==
+7186
+
+==>
+	Name: Huggy Bear
+	Colour: #0A5DF5
+	Image: lilseb.png
+	
+	Appear from Popop
+	6139-6142
+	
+	Do something or other with a painting
+	6155-6157
+	
+	Name: Lil' Seb
+	
+	Slice an umbrella statue thing
+	Lift fridge
+	6158-6169
+
+	Install sburb
+	6356
+
+	Hand Jane the reigns to a computer shaped like a man
+	6469
+
+	Observe "meteor"
+	6563
+
+	Jane: Enter
+	6565
+
+	ACT 6 ACT 3
+	6720
+	
+	Jane: Proceed
+	6725
+
+	DD: Ascend more casually
+	6844
+
+	Continue searching for Dad Crocker
+	6851-6862
+
+	Enter crypt
+	6935-6937
+	
+	"Transportalize" to Derse
+	6943
+	6946-6951
+
+	Watch Jane die
+	Save Jake
+	7038-7043
+		7052-7053
+	<====
+	
+	PCHOOOO!
+	Be glaresploded, land in lake
+	7054-7067
+	
+	Be found by Gamzee
+	7576-7582
+
+	Witness engagement
+	7682-7687
+
+	Be on planet 5
+	7846
+
+	Be on planet 8
+	7922
+
+	Be on planet 12
+	7965
+
+	Be on planet 14
+	8011
+
+	Be on planet 8 (Again)
+	INTENSE STAREDOWN
+	8092-8104
+
+	Accidentally discover supercartridge
+	8168-8177
+
+	Aid Caliborn in changing his "ART STYLE"
+	8394-8429
+
+	Award Caliborn trophy
+	8755
+
+	ANOTHER INTENSE STAREDOWN
+	he's not the guy behind all this...?
+	GAME OVER.
+	8789-8801
+
+	MASTERPIECE
+	9312-9344
+
+WHY DID YOU TAKE THE BUNNY OUT OF THE BOX?
+2031-2033
+
+Be put in the box
+2038-2047
+
+Continue being in the box
+2103-2104
+2111
+2141
+
+DON'T MOVE OR THE BUNNY GETS IT
+2293
+
+Continue fighting imp
+2297
+
+Defeat Imp
+YOU SAID
+PUT THE BUNNY 
+BACK IN
+THE BOX!!!!!
+2300-2304
+
+Put the bunny in the STRIFE DECK
+2307-2308
+
+Take shortcut
+Give dear sweet casey the bunny
+Captchalogue Casey
+3497-3502
+3506
+3533-3537
+
+==>
+	Name: Doomed Con Air Bunny
+	Be Captchalogued
+	3538-3540
+
+Be Captchalogued
+Blast off
+3546-3549
+
+Deploy beloved daughter
+3612-3613
+
+Reunite with your loving wife and daughter
+3831
+
+Descend
+3840
+
+==>
+	Name: Wizard Bunny
+	6029
+
+Name: Knitted bunny
+Colour: #A16FC2
+
+2114-2118
+
+Be taken out of the box
+3605
+3607-3612
+
+Reunite with your loving wife and daughter
+3831
+
+Descend
+3840
+
+==>
+	Name: Detective Bunny
+	6029
+
+Be on cruise
+3774
+
+Name: Terry Kiser
+Image: livtyler.png
+Colour: #0A5DF5
+
+Work on bunny
+4890
+
+Be in Jake's room
+6020
+
+Put the bunny in the puzzle modus
+6073-6076
+
+Deploy Terry Kiser
+Be sendificated
+6917-6927
+
+Be appearified to Jade
+3427
+
+Be in car
+1985
+	2054
+<==
+
+Leave
+2043
+
+Return
+2100
+
+Be dropped into LOWAS
+2190-2191
+
+Be confiscated by AR
+3355-3361
+3378-3383
+
+Be in Jack's office
+3448-3456
+
+Be used to kill BQ
+3568
+
+Be given to John
+Defect from Jack
+3851-3854
+3860-3862
+3869
+3882-3884
+
+Explore battlefield with John
+4538-4544
+4547
+
+Name: Liv Tyler
+
+Explore battlefield with CD
+5460-5461
+
+Reunite with loving master
+Be friendled
+5568-5583
+
+Name: Captain Tyler
+
+Go on Derse ship to deliver the tumor
+5584-5589
+
+Notice CD pickpocketing
+5790-5793
+
+Retrieve the tumor
+5828-5832
+
+Have ship exploded
+5871
+
+Escape explosion
+5888-5889
+
+Be on Derse
+5796-5804
+5837-5840
+
+Die in the Green Sun
+6009

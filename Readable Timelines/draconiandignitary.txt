@@ -40,3 +40,22 @@ Wake Dave
 
 Be killed by Dave
 6009
+
+	#B2
+	
+	Report murdered youngster count
+	6498-6499
+	
+	Name: Penultimagent
+
+	6832
+
+	Name: Draconian Dignitary
+
+	Ascend, in a casual laid back fashion.
+	Use red miles
+	6833-6850
+
+	Read the news
+	Check up on prisoner
+	7459-7471
