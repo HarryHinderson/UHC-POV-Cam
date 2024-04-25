@@ -1,6 +1,6 @@
 Name: Jade
 Colour: #4AC925
-Image: jade.png
+Image: jadewardrobifier.png
 Group: Kids
 
 Be created on meteor
@@ -36,6 +36,10 @@ Image: jadewardrobifier.png
 Wish John happy birthday
 Be contacted by Karkat with message from future self
 3425
+
+	(John's POV)
+	2900
+<==
 
 Receive package from Jake
 3427
@@ -148,11 +152,11 @@ Start building
 Be trolled by Tavros
 3836
 
+Image: jade.png
+
 Witness destruction of Prospit's moon
 Have dream self die, robot explode
 3840
-
-Image: jade.png
 
 	Remem8er.
 	9859
@@ -421,14 +425,14 @@ Save Jake, Jane from Union Jack
 Teleport Union Jack to the outer ring
 Be mind controlled by )(IC
 Zap tiaratop onto Jane
-7764-7790-2
+7764-7791
 Colour: #000000
-7792-7804-2
+7792-7805
 
 Beat up Dirk
 Teleport Dirk to the outer ring
 Take Roxy to Derse
-7808-7824-2
+7808-7825
 
 Intimidate Roxy
 Tell Roxy about her void powers

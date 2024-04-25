@@ -21,13 +21,7 @@ Be found by Bro
 3778-3779
 
 Growing up montage
-4662-4664
-
-Image: hearts.png
-
-4665-4670
-
-Image: dave.png
+4662-4670
 
 Be trolled by Terezi
 4672
@@ -46,6 +40,7 @@ Be introduced
 2209-2224
 
 Talk to John about playing Sburb
+1926
 1935
 1939
 
@@ -154,9 +149,7 @@ Convince John to rummage through Rose's stuff
 3591-3595
 
 Realise you're already awake
-3599-3601
-3605
-3602-3604
+3599-3604
 
 Jam with Rose
 See Rose throw dream Cal out of window
@@ -169,25 +162,7 @@ Look for Lil' Cal out of window
 3655
 
 Wake up and jam.
-3720-3722
-
-Image: daveplush.png
-
-3723-3733
-
-Image: daveaces.png
-
-3734-3738
-
-Image: daveplush.png
-
-3739-3746
-
-Image: daveaces.png
-
-3747-3758
-
-Image: daveplush.png
+3720-3758
 
 Go to burn book
 3761-3762
@@ -212,11 +187,7 @@ Be trolled by Terezi
 
 Talk to Terezi
 Be convinced by future self to listen to her
-4673-4674
-
-Image: daveaces.png
-
-4675-4683
+4673-4683
 
 Talk with John, Karkat in the Fruity Rumpus Asshole Factory
 4689-4690
@@ -257,13 +228,10 @@ Learn of the Green Sun, the Tumor
 4934-4937
 4939-4944
 
-Image: davefelt.png
-
 Witness John's ascension
 4987
 
 ==>
-	
 	Name: Doomed Dave
 	Go to sleep on Quest Bed
 	4989-4991
@@ -279,8 +247,6 @@ Witness John's ascension
 	
 	Be double killed
 	7161
-
-Image: davescratch.png
 
 Make a goddamn killing in the LOHACSE.
 4637-4641
@@ -311,8 +277,7 @@ Caption: On LOFAF
 Talk to Jade about her moving through space and you, time
 Deploy laserstation
 4924-4932
-
-Make... wait, what?
+Make... wait, what?
 5041-5042
 
 Deploy cloning apparatus
