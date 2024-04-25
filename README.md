@@ -4,6 +4,17 @@ A port of [madman-bob](https://github.com/madman-bob/Homestuck-POV-Cam)'s Homest
 
 Download this mod as a ZIP file, extract it, and place it into your mods folder within the UHC asset pack. [Here's a guide for installing mods](https://github.com/Bambosh/unofficial-homestuck-collection/blob/main/MODDING.md#installing-mods)
 
+## Harry Hinderson Master Branch
+
+- New Icons/Updating Icons (DONE)
+- Timeline Fixes
+- Additional Characters
+- Merge Boertz branch (NOT STARTED)
+  - Merge/Compile timeline fixes
+  - Merge B2 Dad into Additional characters
+  - Dynamic collide/act 7 branch
+  - New features branch
+
 ## Changelog
 
 ### v0.7
