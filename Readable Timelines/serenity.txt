@@ -146,11 +146,11 @@ Be renamed
 Enter
 7160
 
+Name: Serenity
+
 Inspire heroes
 Reunite with WV
 9987
-
-Name: Serenity
 
 Throw rings into the forge
 10007-10011
