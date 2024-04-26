@@ -27,6 +27,7 @@ jaspers
 gcat
 serenity
 bunny
+maplehoof
 
 jacknoirb2
 
