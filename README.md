@@ -13,7 +13,7 @@ Medium Priority:
 ~~Other B2 Agents~~, Andrew Hussie, Ms. Paint, Auto Responder, Seperate BGD
 
 Low Priority:
-Maplehoof, Hussiebot, ~~Serenity~~, Casey, Fedora Freak
+Maplehoof, Hussiebot, ~~Serenity~~, Casey, Fedora Freak, Mutie
 
 Bottom Priority:
 Black King (B1), Black Queen (B1), White Queen (B2), Dirkbot, Troll Lusii, Sawtooth, Squarewave
@@ -21,6 +21,24 @@ Black King (B1), Black Queen (B1), White Queen (B2), Dirkbot, Troll Lusii, Sawto
 - Update settings
 - Fully update collide/act 7
 - Fully update homepage
+- Update expected timelines/groups to make more sense
+  - Beta Kids
+  - Alpha Kids
+  - Beta Trolls
+  - Beta Trolls' Ancestors
+  - Beta Kids' Guardians
+  - Alpha Kids' Guardians (B2 Dad, Lil Cal, GCat, Maplehoof, Mutie) (I'm technically right for putting all of them here!!!)
+  - Beta Kids' Exiles
+  - Midnight Crew
+  - Beta Kids' Agents/Alpha Kids' Agents
+  - Beta Kids' Sprites
+  - Alpha Kids' Sprites
+  - ~~Kids' Supporters~~ Miscellaneous (Bunny, Jaspers, Serenity, Auto Responder, BGD, Casey, Fedora Freak, Sawtooth, Squarewave)
+  - Cherubs
+  - The Felt
+  - Alpha Trolls
+  - Meta (Hussie, Ms. Paint, Auto Responder, Rufio)
+    
 
 ## Changelog
 
