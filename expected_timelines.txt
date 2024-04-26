@@ -21,6 +21,15 @@ WV
 PM
 AR
 WQ
+WK
+
+jaspers
+gcat
+serenity
+bunny
+maplehoof
+
+jacknoirb2
 
 jacknoir
 draconiandignitary
@@ -79,8 +88,6 @@ arquiusprite
 erisolsprite
 nepetasprite
 davepetasprite2
-
-jacknoirb2
 
 damara
 rufioh
