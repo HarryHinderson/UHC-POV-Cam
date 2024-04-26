@@ -41,8 +41,9 @@ Wake Dave
 Be killed by Dave
 6009
 
-	#B2
-	
+	#B2 DD
+	Group: Alpha Kids' Agents
+
 	Report murdered youngster count
 	6498-6499
 	

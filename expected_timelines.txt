@@ -28,6 +28,8 @@ gcat
 serenity
 bunny
 
+jacknoirb2
+
 jacknoir
 draconiandignitary
 hegemonicbrute
@@ -85,8 +87,6 @@ arquiusprite
 erisolsprite
 nepetasprite
 davepetasprite2
-
-jacknoirb2
 
 damara
 rufioh
