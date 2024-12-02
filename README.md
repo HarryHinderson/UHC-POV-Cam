@@ -7,7 +7,7 @@ Download this mod as a ZIP file, extract it, and place it into your mods folder 
 ## Harry Hinderson Master Branch
 
 - New Icons/Updating Icons (DONE)
-- Timeline Fixes/Boertz Merge
+- Timeline Fixes/Boertz Merge (DONE)
 - Additional Characters
 
 ## Changelog
