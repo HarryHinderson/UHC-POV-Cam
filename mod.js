@@ -3,7 +3,7 @@ let toPageString = pageNumber => pageNumber < 10000 ? `00${pageNumber}` : `0${pa
 module.exports = {
   title: "Homestuck POV Cam Port", 
   author: "<a href='https://github.com/madman-bob/Homestuck-POV-Cam'>madman-bob</a>, ported by <a href='https://flaringk.github.io/Portfolio/'>FlaringK</a>",
-  modVersion: "0.6",
+  modVersion: "0.9",
 
   summary: "A port of madman-bob's Homestuck POV Cam Chrome extension",
   description: `A port of <a href='https://github.com/madman-bob/Homestuck-POV-Cam'>madman-bob</a>'s Homestuck POV Cam Chrome extension to the UHC. <a href='https://github.com/FlaringK/UHC-POV-Cam'>Github</a><br />
@@ -113,7 +113,7 @@ module.exports = {
       styles: [
         {
           // Set collide & act 7 style manually
-          body: api.store.get("collideAct7Style", "") // mod must be restarted twice to update
+          body: api.store.get("collideAct7Style", "a") // mod must be restarted twice to update; fallback is "a" since "" crashes TUHC
         },
         {
           source: "./povmap.css"
