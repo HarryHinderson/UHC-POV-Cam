@@ -6,38 +6,181 @@ Download this mod as a ZIP file, extract it, and place it into your mods folder 
 
 ### Harry Hinderson Additional Characters Branch
 
-Top Priority:
-~~Uber Bunny~~, ~~Writ Keeper~~, ~~Jaspers~~, ~~GCat~~, ~~Dad (B2)~~ 
+~~john~~
+~~rose~~
+~~dave~~
+~~jade~~
 
-Medium Priority:
-~~Other B2 Agents~~, Andrew Hussie, Ms. Paint, Auto Responder, Seperate BGD, MSPA Reader
+dreamjohn
+dreamrose
+dreamdave
+dreamjade
 
-Low Priority:
-~~Maplehoof~~, Hussiebot, ~~Serenity~~, Casey, Fedora Freak, Mutie
+~~jane~~
+~~roxy~~
+~~dirk~~
+~~jake~~
 
-Bottom Priority:
-Black King (B1), Black Queen (B1), White Queen (B2), Dirkbot, Troll Lusii, Sawtooth, Squarewave
+dreamjane
+dreamroxy
+dreamdirk
+dreamjake
+
+~~aradia~~
+~~tavros~~
+~~sollux~~
+~~karkat~~
+~~nepeta~~
+~~kanaya~~
+~~terezi~~
+~~vriska~~
+~~equius~~
+~~gamzee~~
+~~eridan~~
+~~feferi~~
+~~doomedfeferi~~
+
+dreamaradia
+dreamtavros
+prospitsollux
+dersesollux
+dreamkarkat
+dreamnepeta
+dreamkanaya
+dreamterezi
+dreamvriska
+dreamequius
+dreamgamzee
+dreameridan
+dreamfeferi
+
+~~condesce~~
+
+
+~~dad~~
+~~nanna~~
+~~mom~~
+~~bro~~
+~~grandpa~~
+~~becquerel~~
+
+johnb2
+roseb2
+daveb2
+jadeb2
+~~maplehoof~~
+~~gcat~~
+~~lilcal~~
+mutie
+
+~~WV~~
+~~PM~~
+~~AR~~
+~~WQ~~
+~~WK~~
+
+~~spadesslick~~
+~~diamondsdroog~~
+~~heartsboxcars~~
+~~clubsdeuce~~
+
+~~jacknoir~~
+
+~~jacknoirb2~~
+
+~~draconiandignitary~~
+~~hegemonicbrute~~
+~~courtyarddroll~~
+
+~~nannasprite~~
+~~jaspersprite~~
+~~calsprite~~
+~~davesprite~~
+~~jadesprite~~
+
+~~tavrisprite~~
+~~tavrosprite~~
+~~fefetasprite~~
+~~rosesprite~~
+~~jasprosesprite2~~
+~~arquiusprite~~
+~~erisolsprite~~
+~~nepetasprite~~
+~~davepetasprite2~~
+
+~~bunny~~
+autoresponder
+~~jaspers~~
+~~serenity~~
+brainghostdirk
+casey
+fedorafreak
+sawtooth
+squarewave
+brobot
+
+~~calliope~~
+~~caliborn~~
+~~lordenglish~~
+
+dreamcalliope
+dreamcaliborn
+
+~~itchy~~
+~~doze~~
+~~trace~~
+~~clover~~
+~~fin~~
+~~die~~
+~~crowbar~~
+~~snowman~~
+~~stitch~~
+~~sawbuck~~
+~~matchsticks~~
+~~eggs~~
+~~biscuits~~
+~~quarters~~
+~~cans~~
+~~docscratch~~
+
+~~damara~~
+~~rufioh~~
+~~mituna~~
+~~kankri~~
+~~meulin~~
+~~porrim~~
+~~latula~~
+~~aranea~~
+~~horuss~~
+~~kurloz~~
+~~cronus~~
+~~meenah~~
+
+hussie
+hussiebot
+mspaint
+mspar
 
 - Update settings
 - Fully update collide/act 7
 - Fully update homepage
-- Update expected timelines/groups to make more sense
+- Update expected timelines/groups to make more sense (Done)
   - Beta Kids
   - Alpha Kids
   - Beta Trolls
   - Beta Trolls' Ancestors
   - Beta Kids' Guardians
-  - Alpha Kids' Guardians (B2 Dad, Lil Cal, GCat, Maplehoof, Mutie) (I'm technically right for putting all of them here!!!)
+  - Alpha Kids' Guardians
   - Beta Kids' Exiles
   - Midnight Crew
   - Beta Kids' Agents/Alpha Kids' Agents
   - Beta Kids' Sprites
   - Alpha Kids' Sprites
-  - Miscellaneous (Bunny, Jaspers, Serenity, Auto Responder, BGD, Casey, Fedora Freak, Sawtooth, Squarewave)
+  - Miscellaneous 
   - Cherubs
   - The Felt
   - Alpha Trolls
-  - Meta (Hussie, Ms. Paint, Rufio, MSPA Reader)
+  - Meta 
     
 
 ## Changelog
