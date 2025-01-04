@@ -10,7 +10,7 @@ Top Priority:
 ~~Uber Bunny~~, ~~Writ Keeper~~, ~~Jaspers~~, ~~GCat~~, ~~Dad (B2)~~ 
 
 Medium Priority:
-~~Other B2 Agents~~, Andrew Hussie, Ms. Paint, Auto Responder, Seperate BGD
+~~Other B2 Agents~~, Andrew Hussie, Ms. Paint, Auto Responder, Seperate BGD, MSPA Reader
 
 Low Priority:
 ~~Maplehoof~~, Hussiebot, ~~Serenity~~, Casey, Fedora Freak, Mutie
@@ -33,11 +33,11 @@ Black King (B1), Black Queen (B1), White Queen (B2), Dirkbot, Troll Lusii, Sawto
   - Beta Kids' Agents/Alpha Kids' Agents
   - Beta Kids' Sprites
   - Alpha Kids' Sprites
-  - ~~Kids' Supporters~~ Miscellaneous (Bunny, Jaspers, Serenity, Auto Responder, BGD, Casey, Fedora Freak, Sawtooth, Squarewave)
+  - Miscellaneous (Bunny, Jaspers, Serenity, Auto Responder, BGD, Casey, Fedora Freak, Sawtooth, Squarewave)
   - Cherubs
   - The Felt
   - Alpha Trolls
-  - Meta (Hussie, Ms. Paint, Auto Responder, Rufio)
+  - Meta (Hussie, Ms. Paint, Rufio, MSPA Reader)
     
 
 ## Changelog
