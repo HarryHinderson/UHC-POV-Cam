@@ -13,3 +13,8 @@ Ask Meenah to find missing lusus
 
 Ministrife
 7327
+
+	Name: Rufio
+	Image: rufio.png
+	4252
+	5286-5291
