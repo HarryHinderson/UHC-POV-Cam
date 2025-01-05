@@ -1,0 +1,94 @@
+Name: Mutant Kitten Kitten
+Colour: #000000
+Image: mutie.png
+Group: Alpha Kids' Guardians
+
+Be in a little teacup
+2806-2807
+
+Name: Absurd Kitten
+
+Abscond Lab
+2826-2827
+2832-2834
+2838
+2840-2841
+
+Be in Mom's "room"
+2884-2888
+
+Be in Rose's room
+Name: Vodka Mutini
+2902
+2988
+
+[S] Enter.
+3048-3049
+
+Arrive in LOLAR
+3393-3399
+3423-3424
+3439
+
+Witness cold blooded murder
+3483-3486
+3488
+
+Witness conversation with ghostly ecto-father
+3526
+
+Watch Rose prepare for nap
+3554
+
+==>
+	Name: Vodka Mutini (Doomed)
+	Cease to exist
+	3555
+	
+Go to sleep
+3556
+
+Wake up
+3590
+
+Name: Dr. Meowgon Spengler
+Be catnapped by John
+Witness said catnapper's burglary & identity theft
+3591-3614
+
+Visit alchemiter
+3637-3653
+
+Adventure with criminal father
+Arrive at meteor
+3660-3676
+
+Assist with ectobiology as Jr. Lab Assistant
+3765
+3770
+3777
+3781
+3788
+
+Play with little monkeys
+Reunite with loving wife and daughter
+3803
+3829
+3831
+
+[S] Descend
+3840
+
+Name: Dead Mutant Cat
+
+Be dead
+6013
+
+Get Captchalogued
+6372-6373
+
+Get used as a test pilot
+6405-6408
+6411
+
+We see him in a few more panels following this until Unite Synchronize, but none of it was of any importance at all.
