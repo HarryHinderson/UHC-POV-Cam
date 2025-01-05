@@ -1,0 +1,10 @@
+Name: Hussiebot
+Colour: #000000
+Image: andrewhussie.png
+Group: Meta
+
+Introduction
+6185-6191
+
+Be dead
+6582-6583
