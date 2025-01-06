@@ -1,4 +1,4 @@
-Name: Ms. Paint
+Name: Ms Paint
 Colour: #FFFFFF
 Image: mspaint.png
 Group: Meta
@@ -7,14 +7,14 @@ Be on Prospit
 3719
 3840
 
-Join WQ's entourage
+Join The White Queen's entourage
 Be exiled
 3874
 
 Be in Hussiespace
 5131-5132
 
-Look through the 5th wall
+Look through the fifth wall
 5952
 
 Be read a story by Hussie

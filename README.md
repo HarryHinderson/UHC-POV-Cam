@@ -88,6 +88,8 @@ jadeb2
 
 ~~jacknoirb2~~
 
+~~jacknoirc~~
+
 ~~draconiandignitary~~
 ~~hegemonicbrute~~
 ~~courtyarddroll~~
@@ -115,8 +117,8 @@ autoresponder
 brainghostdirk
 casey
 fedorafreak
-sawtooth
-squarewave
+~~sawtooth~~
+~~squarewave~~
 brobot
 
 ~~calliope~~

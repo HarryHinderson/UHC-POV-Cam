@@ -1,0 +1,12 @@
+Name: Jack Noir
+Colour: #000000
+Image: spades.png
+Group: Cherubs' Agents
+
+Assassinate Calliope
+6876-6878
+
+Be on the final planet with Caliborn
+8093
+
+Presumably, get murdered by Caliborn
