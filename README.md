@@ -158,7 +158,7 @@ dreamcaliborn
 
 ~~hussie~~
 ~~hussiebot~~
-mspaint
+~~mspaint~~
 mspar
 
 - Update settings
