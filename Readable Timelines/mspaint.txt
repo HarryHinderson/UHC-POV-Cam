@@ -1,0 +1,43 @@
+Name: Ms. Paint
+Colour: #FFFFFF
+Image: mspaint.png
+Group: Meta
+
+Be on Prospit
+3719
+3840
+
+Join WQ's entourage
+Be exiled
+3874
+
+Be in Hussiespace
+5131-5132
+
+Look through the 5th wall
+5952
+
+Be read a story by Hussie
+5996
+
+Encounter Lord English
+6572-6583
+6690
+
+Mourn Hussie
+6844
+
+
+8018-8032
+
+
+8034-8041
+
+Get dropped on Jake
+9864-9869
+
+Collide.
+9987
+
+Meet the Sovereign Slayer
+9996-10000

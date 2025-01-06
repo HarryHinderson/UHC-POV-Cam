@@ -1,6 +1,6 @@
 Name: Hussiebot
 Colour: #000000
-Image: andrewhussie.png
+Image: hussiebot.png
 Group: Meta
 
 Introduction
