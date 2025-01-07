@@ -3,20 +3,20 @@ rose
 dave
 jade
 
-dreamjohn
-dreamrose
-dreamdave
-dreamjade
+dream-john
+dream-rose
+dream-dave
+dream-jade
 
 jane
 roxy
 dirk
 jake
 
-dreamjane
-dreamroxy
-dreamdirk
-dreamjake
+dream-jane
+dream-roxy
+dream-dirk
+dream-jake
 
 aradia
 tavros
@@ -32,19 +32,19 @@ eridan
 feferi
 doomedfeferi
 
-dreamaradia
-dreamtavros
-prospitsollux
-dersesollux
-dreamkarkat
-dreamnepeta
-dreamkanaya
-dreamterezi
-dreamvriska
-dreamequius
-dreamgamzee
-dreameridan
-dreamfeferi
+dream-aradia
+dream-tavros
+prospit-sollux
+derse-sollux
+dream-karkat
+dream-nepeta
+dream-kanaya
+dream-terezi
+dream-vriska
+dream-equius
+dream-gamzee
+dream-eridan
+dream-feferi
 
 handmaid
 condesce
@@ -56,13 +56,13 @@ bro
 grandpa
 becquerel
 
-johnb2
-roseb2
-daveb2
-jadeb2
+john-b2
+rose-b2
+dave-b2
+jade-b2
 maplehoof
 gcat
-lilcal
+lil-cal
 mutie
 
 WV
@@ -71,20 +71,20 @@ AR
 WQ
 WK
 
-spadesslick
-diamondsdroog
-heartsboxcars
-clubsdeuce
+spades-slick
+diamonds-droog
+hearts-boxcars
+clubs-deuce
 
-jacknoir
+jack-noir
 
-jacknoirb2
+jack-noir-b2
 
-jacknoirc
+jack-noir-c
 
-draconiandignitary
-hegemonicbrute
-courtyarddroll
+draconian-dignitary
+hegemonic-brute
+courtyard-droll
 
 nannasprite
 jaspersprite
@@ -103,10 +103,10 @@ nepetasprite
 davepetasprite2
 
 bunny
-autoresponder
+auto-responder-dirk
 jaspers
 serenity
-brainghostdirk
+brain-ghost-dirk
 casey
 fedorafreak
 sawtooth
@@ -115,10 +115,10 @@ brobot
 
 calliope
 caliborn
-lordenglish
+lord-english
 
-dreamcalliope
-dreamcaliborn
+dream-calliope
+dream-caliborn
 
 itchy
 doze
@@ -135,7 +135,7 @@ eggs
 biscuits
 quarters
 cans
-docscratch
+doc-scratch
 
 damara
 rufioh
@@ -152,5 +152,5 @@ meenah
 
 hussie
 hussiebot
-mspaint
-mspar
+ms-paint
+mspa-reader

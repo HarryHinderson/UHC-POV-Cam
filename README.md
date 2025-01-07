@@ -11,20 +11,20 @@ Download this mod as a ZIP file, extract it, and place it into your mods folder 
 ~~dave~~
 ~~jade~~
 
-dreamjohn
-dreamrose
-dreamdave
-dreamjade
+dream-john
+dream-rose
+dream-dave
+dream-jade
 
 ~~jane~~
 ~~roxy~~
 ~~dirk~~
 ~~jake~~
 
-dreamjane
-dreamroxy
-dreamdirk
-dreamjake
+dream-jane
+dream-roxy
+dream-dirk
+dream-jake
 
 ~~aradia~~
 ~~tavros~~
@@ -38,21 +38,20 @@ dreamjake
 ~~gamzee~~
 ~~eridan~~
 ~~feferi~~
-~~doomedfeferi~~
 
-dreamaradia
-dreamtavros
-prospitsollux
-dersesollux
-dreamkarkat
-dreamnepeta
-dreamkanaya
-dreamterezi
-dreamvriska
-dreamequius
-dreamgamzee
-dreameridan
-dreamfeferi
+dream-aradia
+dream-tavros
+prospit-sollux
+derse-sollux
+dream-karkat
+dream-nepeta
+dream-kanaya
+dream-terezi
+dream-vriska
+dream-equius
+dream-gamzee
+dream-eridan
+dream-feferi
 
 ~~handmaid~~
 ~~condesce~~
@@ -64,10 +63,10 @@ dreamfeferi
 ~~grandpa~~
 ~~becquerel~~
 
-johnb2
-roseb2
-daveb2
-jadeb2
+john-b2
+rose-b2
+dave-b2
+jade-b2
 ~~maplehoof~~
 ~~gcat~~
 ~~lilcal~~
@@ -79,20 +78,20 @@ jadeb2
 ~~WQ~~
 ~~WK~~
 
-~~spadesslick~~
-~~diamondsdroog~~
-~~heartsboxcars~~
-~~clubsdeuce~~
+~~spades-slick~~
+~~diamonds-droog~~
+~~hearts-boxcars~~
+~~clubs-deuce~~
 
-~~jacknoir~~
+~~jack-noir~~
 
-~~jacknoirb2~~
+~~jack-noir-b2~~
 
-~~jacknoirc~~
+~~jack-noir-c~~
 
-~~draconiandignitary~~
-~~hegemonicbrute~~
-~~courtyarddroll~~
+~~draconian-dignitary~~
+~~hegemonic-brute~~
+~~courtyard-droll~~
 
 ~~nannasprite~~
 ~~jaspersprite~~
@@ -111,10 +110,10 @@ jadeb2
 ~~davepetasprite2~~
 
 ~~bunny~~
-autoresponder
+auto-responder
 ~~jaspers~~
 ~~serenity~~
-~~brainghostdirk~~
+~~brain-ghost-dirk~~
 ~~casey~~
 fedorafreak
 ~~sawtooth~~
@@ -123,10 +122,10 @@ fedorafreak
 
 ~~calliope~~
 ~~caliborn~~
-~~lordenglish~~
+~~lord-english~~
 
-dreamcalliope
-dreamcaliborn
+dream-calliope
+dream-caliborn
 
 ~~itchy~~
 ~~doze~~
@@ -160,8 +159,8 @@ dreamcaliborn
 
 ~~hussie~~
 ~~hussiebot~~
-~~mspaint~~
-~~mspar~~
+~~ms-paint~~
+~~mspa-reader~~
 
 - Update settings
 - Fully update collide/act 7
