@@ -80,19 +80,7 @@ Feedback knocks out waking self
 7088-7090
 7092-7100
 7102
-7104
-
-==>
-	Name: Brain Ghost Dirk
-	Be brain ghost Dirk in Jake's memory
-	6744-6777
-	Be in meetup dream bubble
-	Be noticed by Terezi
-	Carry on existing after Jake wakes up
-	6887-6913
-	7105
-	Name: Dirk
-<==
+7104-7105
 
 Dream into brain ghost Dirk
 7106-7117
@@ -247,33 +235,6 @@ Start glitching out
 Talk to Dave
 Continue glitching out
 8295-8296
-
-	Name: Brain Ghost Dirk
-
-	Be brain ghost Dirk with Jake in Derse cell
-	8343-8346
-
-	Start appearing behind Aranea
-	8568-8569
-	8584
-
-	Become real
-	8590-8592
-
-	Attack Aranea
-	8600-8605
-	8634
-
-	Rip Aranea's soul out of her body
-	8640-8646
-
-	Tell Rose to protect Roxy
-	8650-8655
-
-	Start becoming fake
-	8657
-	8662
-	8669
 
 Be found by John
 Ask to be left alone
