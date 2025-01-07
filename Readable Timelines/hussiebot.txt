@@ -6,5 +6,8 @@ Group: Meta
 Introduction
 6185-6191
 
+Pay no attention to the man behind the curtain cloth.
+6200-6201
+
 Be dead
 6582-6583
