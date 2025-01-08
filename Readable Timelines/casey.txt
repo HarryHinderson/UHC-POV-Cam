@@ -1,7 +1,7 @@
 Name: Salamander
 Colour: #FFAB00
 Image: casey.png
-Group: Kids' Supporters
+Group: Miscellaneous
 
 Reunite with your father
 3500

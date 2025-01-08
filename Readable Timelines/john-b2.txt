@@ -3,7 +3,7 @@
 Name: John (B2)
 Colour: #0715CD
 Image: john-b2.png
-Group: Guardians
+Group: Alpha Kids' Guardians
  
 
 # Be created in John (B1) file

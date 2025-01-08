@@ -1,7 +1,7 @@
 Name: Sawtooth
 Colour: #000000
 Image: sawtooth.png
-Group: Kids' Supporters
+Group: Miscellaneous
 
 Fight Imperial Drones
 6867-6870

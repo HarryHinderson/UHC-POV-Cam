@@ -1,7 +1,7 @@
 Name: Brobot
 Colour: #0A5DF5
 Image: brobot.png
-Group: Kids' Supporters
+Group: Miscellaneous
 
 Be sent to Jake
 6745-6747

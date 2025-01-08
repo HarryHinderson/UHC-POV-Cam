@@ -1,7 +1,7 @@
 Name: Jaspers
 Colour: #000000
 Image: jaspers.png
-Group: Kids' Supporters
+Group: Miscellaneous
 
 Tell Rose stunning secret
 Be disappearified

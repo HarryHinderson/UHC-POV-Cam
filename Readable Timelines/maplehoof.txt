@@ -1,5 +1,5 @@
 Name: A Beautiful Pony
-Group: Kids' Supporters
+Group: Alpha Kids' Guardians
 Image: maplehoof.png
 Colour: #FF7BF7
 

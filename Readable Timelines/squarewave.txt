@@ -1,7 +1,7 @@
 Name: Squarewave
 Colour: #000000
 Image: squarewave.png
-Group: Kids' Supporters
+Group: Miscellaneous
 
 Introduction
 6422-6437

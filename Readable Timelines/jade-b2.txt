@@ -1,7 +1,7 @@
 Name: Jade (B2)
 Colour: #4AC925
 Image: jade-b2.png
-Group: Guardians
+Group: Alpha Kids' Guardians
  
 
 	Be sent to Earth

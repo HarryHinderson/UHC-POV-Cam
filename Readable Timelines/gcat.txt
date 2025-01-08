@@ -1,7 +1,7 @@
 Name: GCat
 Colour: #FFFFFF
 Image: gcat.png
-Group: Kids' Supporters
+Group: Alpha Kids' Guardians
 
 Be created
 8178

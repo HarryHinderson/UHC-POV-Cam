@@ -3,7 +3,7 @@
 Name: Rose (B2)
 Colour: #B536DA
 Image: rose-b2.png
-Group: Guardians
+Group: Alpha Kids' Guardians
  
 
 # Be created in Rose (B1) file
