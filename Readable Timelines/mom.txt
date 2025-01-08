@@ -15,7 +15,7 @@ Be created
 	Be sent to Earth
 	Name: Roxy (B1)
 	6606 : mom.png
-	~ Roxy @ B1
+	~ Mom @ B1
 
 Be sent to Earth on meteor
 3840
@@ -27,11 +27,12 @@ Be sent to Earth on meteor
 
 Caption: Roxy (B1)
 Image*: roxy-b1.png
-@B1
+
 
 Name: Mom
 Image: mom.png
 
+@B1
 Visit joke shop
 3782-3783
 3785

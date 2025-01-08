@@ -16,7 +16,7 @@ Be created
 	Be sent to Earth
 	Name: Dirk (B1)
 	6606 : dirk-b1.png
-	~ Dirk @ B1
+	~ Bro @ B1
 
 
 Be sent to Earth on meteor
@@ -29,11 +29,11 @@ Be sent to Earth on meteor
 
 Caption: Dirk (B1)
 Image*: dirk-b1.png
-@B1
 
 Name: Bro
 Image: bro.png
 
+@B1
 Find and adopt Dave
 3778-3779
 
