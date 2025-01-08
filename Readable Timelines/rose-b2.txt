@@ -1,0 +1,29 @@
+# Rose (B2)
+
+Name: Rose (B2)
+Colour: #B536DA
+Image: rose-b2.png
+Group: Guardians
+Story: MSPA
+
+# Be created in Rose (B1) file
+
+	Be sent to Earth
+	Name: Rose (B2)
+	6606
+	~ Rose (B2) @ B2
+
+@B2
+
+Name: Rose (B2)
+Look over as the Condesce arrives on Earth B2
+6748
+
+Fight the High Chaplain
+6769-6771
+
+Maybe fight the Condesce
+6772-6773
+
+Die
+6774

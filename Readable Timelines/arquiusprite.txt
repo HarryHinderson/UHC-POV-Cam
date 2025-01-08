@@ -1,10 +1,14 @@
-Name: Equiusprite
+Name: ARquiusprite
 Colour: #E00707
-Image: equiusprite.png
+Image: arquiusprite.png
 Group: Alpha Kids' Sprites
+Story: MSPA
 
 	Name: ARquiusprite
-	Image: arquiusprite.png
+	@ retcon
+	Vriskagram
+	I'm fudging things a bit, as he doesn't technically show up here
+	9349
 
 	Attempt to remove tiaratop from Jane
 	9350-9377
@@ -48,9 +52,7 @@ Group: Alpha Kids' Sprites
 	Collide
 	9987
 
-7547-7554
-Name: ARquiusprite
-Image: arquiusprite.png
+@ gamzee
 7555-7557
 
 Witness arival of tricksters

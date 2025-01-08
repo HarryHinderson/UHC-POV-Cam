@@ -1,0 +1,102 @@
+Name: Dream Dirk
+Colour: #F2A400
+Image: dirk.png
+Group: Alpha Kids
+Story: MSPA
+
+@ever-alert
+6438-6439
+
+==>
+	Caption: Waking Dirk
+	Image*: dirk.png
+	~ Dirk @ distraction
+6442
+
+@distraction
+Kill Derse agent
+6443-6446
+
+Check on Roxy
+6447-6448
+
+6386
+
+==>
+	Caption: Waking Dirk
+	Image*: dirk.png
+	~ Dirk @ be-waking-self-again
+
+6452
+
+@rise-up
+Rise up.
+6472
+
+==>
+	Caption: Waking Dirk
+	Image*: dirk.png
+	~ Dirk @ fenestrated-plane
+
+@casually
+Hang out on Derse
+6844
+
+@miles-1
+6972
+==>
+	Caption: Waking Dirk
+	Image*: dirk.png
+	~ Dirk @ miles-1
+@miles-2
+6974
+==>
+	Caption: Waking Dirk
+	Image*: dirk.png
+	~ Dirk @ miles-2
+@miles-3
+6976-6977
+
+Notice Jake on Derse
+6963-6966
+
+Notice Jane on Derse
+6946-6950
+
+Tell Jane to leave Derse
+Witness Jane be killed by Red Miles
+7038-7045
+
+Be viewed by Caliborn
+7046-7047
+
+Tell Jake to get off Derse
+Get bunny to remove Jake from Derse
+7051-7056
+
+	7087
+<==
+Consider kissing Jane
+7088-7091
+
+Get knocked unconscious
+7092-7093
+
+==>
+	Caption: Waking Self
+	Image*: dirk.png
+	Dirk @ knock-out
+
+@dream
+Dream into brain ghost Dirk
+7104
+==>
+	Caption: Brain Ghost Dirk
+	Image*: dirk.png
+	~ Brain Ghost Dirk @ dream
+
+@unite
+7152
+
+Merge with Dirk, so continue on in dirk.txt
+~ Dirk @ merge

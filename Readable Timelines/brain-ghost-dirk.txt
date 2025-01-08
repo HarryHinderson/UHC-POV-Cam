@@ -1,21 +1,43 @@
-Name: Dirk
-Colour: #F2A400
-Image: dirk.png
-Group: Kids' Supporters
-
-Be brain ghost Dirk in Jake's memory
-6744-6774
-Image: brainghostdirk.png
 Name: Brain Ghost Dirk
-6775-6777
-Be in meetup dream bubble
+Colour: #F2A400
+Image: brain-ghost-dirk.png
+Group: Alpha Kids
+Story: MSPA
+
+@intro
+6744-6777
+6826-6831
+
+@terezi
+Be brain ghost Dirk in dream bubble
 Be noticed by Terezi
 Carry on existing after Jake wakes up
 6887-6913
+
+@dream
+Dream Dirk dreams into you
 7105
 
+Image: dream-dirk.png
+
+7106-7117
+
+Reach edge of dream bubble
+7125-7131
+
+Be unwoken by Aranea
+7134-7135
+
+7137
+==>
+    Caption: Dirk
+    Image*: dirk.png
+    ~ Dirk @ synchronize
+
+@cell
+Image: godtier-dirk.png
 Be brain ghost Dirk with Jake in Derse cell
-8343-8346
+8342-8346
 
 Start appearing behind Aranea
 8568-8569
@@ -38,3 +60,8 @@ Start becoming fake
 8657
 8662
 8669
+
+==>
+	Caption: Dirk
+	Image*: godtier-dirk.png
+	~ Dirk @ glitches

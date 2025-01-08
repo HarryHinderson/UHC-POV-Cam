@@ -11,6 +11,8 @@ dream-jade
 jane
 roxy
 dirk
+auto-responder-dirk
+brain-ghost-dirk
 jake
 
 dream-jane
@@ -88,6 +90,7 @@ courtyard-droll
 
 nannasprite
 jaspersprite
+seppucrowsprite
 calsprite
 davesprite
 jadesprite
@@ -97,16 +100,15 @@ tavrosprite
 fefetasprite
 rosesprite
 jasprosesprite2
+equiusprite
 arquiusprite
 erisolsprite
 nepetasprite
 davepetasprite2
 
 bunny
-auto-responder-dirk
 jaspers
 serenity
-brain-ghost-dirk
 casey
 fedorafreak
 sawtooth

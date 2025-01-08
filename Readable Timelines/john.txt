@@ -1,30 +1,50 @@
-Name: John
+Name: John (Baby)
 Colour: #0715CD
 Image: john.png
-Group: Kids
+Group: Beta Kids
+
+Story: MSPA
 
 Be created
 3790-3791
 3803-3805
 
+	Be sent to Earth
+	Name: John (B1)
+	6606 
+	~ John (Baby) @ B1
+
 Be sent to Earth
 B1
 3840
-B2
-# Jane's Popop
+==>
+	Caption: John (B2)
+	Image*: john-b2.png
+	~ John (B2) @ B2
 
+@B1
+Caption: John (B1)
+Image*: john-b1.png
 Arrive on Earth
 3782-3783
 
 Image: spades.png
 
 Grow up
+Name: John
 4526
 
 Be trolled by Kanaya
 4605-4606
 
 Image: john.png
+
+Be asleep as Gamzee uses chucklevoodoos
+5929
+==>
+	Caption: Dream John
+	Image*: dream-john.png
+	~ Dream John
 
 Send Jade birthday present
 2899-2900
@@ -54,17 +74,23 @@ Enter
 2140-2146
 
 	Name: (John)
+	Caption: (John)
+	TODO: Better name and caption?
 	Be watched by future self
 	9026-9029
 <==
 
 BOY.
+2150-2152
+
 YOU THERE. BOY.
+2153
+
 MAKE HASTE ON THE NARROW CATWALK!
-2150-2170
+2154-2170
 
 Second tier prototype sprite
-2174-2193
+2175-2193
 	2973
 <==
 2194
@@ -80,18 +106,25 @@ Strife!
 Put the bunny back in the box
 2300-2311
 
+	Be pestered by Dave, but ignore
+	(same moment as 2311)
+	2367
+<==
+
 Notice door is fixed
 Be pranked
 Meet Nanasprite
-2367
 2315-2331
 
 GET THE COOKIES!
 2334-2338
 
+Be drubbed by Rose
+2370
+
 Put bunny in strife specibus
 Start building
-2370-2390
+2371-2390
 
 Hammer your way to victory
 Wonder where can opener is
@@ -116,14 +149,19 @@ Make pogo hammer
 Sleep
 2527-2544
 
+==>
+	Caption: Dream John
+	Image*: dream-john.png
+
+@wake-up-and-talk-to-jade
 Wake up
 Prepare for boss battle
+Talk to Jade
 2551-2552
 
-	(Jade's POV)
+	Talk to Jade (Jade's perspective)
 	2974
 <==
-
 2553-2563
 
 Boss battle!
@@ -161,8 +199,9 @@ Enter
 Explore
 3258
 
-Be talked to by PM
-3317-3329
+	Be talked to by PM
+	3317-3329
+<==
 
 Talk to Jade
 3291-3292
@@ -196,6 +235,7 @@ Make rocket pack.
 3533-3537
 ==>
 	Name: Doomed John
+	Caption: Doomed John
 	
 	PCHOOOOO
 	3538-3540
@@ -214,6 +254,7 @@ Make rocket pack.
 	Double die
 	7161
 
+Caption: John (Reconsider)
 Be convinced by future Dave not to go
 3546-3549
 3552
@@ -255,33 +296,31 @@ Be trolled by Karkat
 Get trolled by CG in sane and linear manner.
 3829-3831
 
+[S] Descend
 Send babies on their way
 3840
+==>
+	Fall asleep as Jade wakes your Dream Self
+	Find dead dream Jade
+	Caption: Dream John
+	Image*: dream-john.png
+	Dream John @ dead-jade
 
 Be found by AR
+Be asleep
 Be saved from crashing meteor
 3866-3868
 
 Land already
 4530-4532
 
-Recover ring from dream Jade
-3846-3847
+==>
+	Caption: Dream John
+	Image*: dream-john.png
+	~ Dream John @ find-dad
 
-Meet PM
-Be given package
-Meet Jack Noir
-Be protected by bunny
-3852-3862
-3869
-
-View clouds
-3882-3886
-
-Find Dad, Mom
-Wake
-Drop ring
-4538-4549
+@wake-up-by-vriska
+4549
 
 Be trolled by Vriska
 Learn Terezi's, Spinneret's names
@@ -305,6 +344,7 @@ Talk to Dave
 Send Dave boonbuck
 4632-4633
 
+TODO: I'm a little confused by this one's purpose still...
 Image: johntotallyhot.png
 
 4634-4637
@@ -331,10 +371,13 @@ Learn planet is on fire
 
 Jade: Enter.
 4827
+==>
+	Vriska forces you asleep
+	Caption: Dream John
+	Image*: dream-john.png
+	~ Dream John @ meet-wv
 
-Meet WV
-4848-4851
-
+@on-bed
 Talk to Rose, Karkat, Vriska
 4815-4826
 4828-4841
@@ -353,13 +396,23 @@ Proceed to Quest Bed.
 Be tricked by Vriska, to tell Vriska to put you to sleep
 Be killed
 4975-4986
-	Remem8er.
-	9859
 
 Image: john.png
 
-RISE UP.
-4987
+==>
+	RISE UP
+	Caption: Dream John
+	Image*: dream-john.png
+	~ Dream John @ rise-up
+==>
+	Caption: John (Dead)
+	Wake up as ghost
+	Remem8er.
+	9859
+
+@take-over
+Image: godtier-john.png
+5097
 
 Meet with WV on battlefield
 Find Dad's wallet
@@ -367,7 +420,6 @@ Examine contents
 Talk to Jade
 Talk with Karkat
 Talk to past Karkat
-5097
 5293-5322
 
 Crash car
@@ -391,12 +443,14 @@ Be killed
 Be dead
 5680-5683
 5689-5690
-5694-5696
+5694
+Caption: John (Dead)
+5695-5696
 
 Revive
 Receive message from Vriska
 Be asked on d8
-5749-5758
+5749-5759
 
 Revive Rose
 5770
@@ -491,7 +545,12 @@ Chance upon the Slab of the Jaded Fool's Ennui
 
 Have everyone teleport to you
 8131-8134
+==>
 	Name: (John)
+	Caption: John (Retcon)
+	# I'm not sure I should link this one
+	# even though I have other retcons
+	# I'll have to think about it later
 	9110-9119
 
 John Egbert has gone missing.
@@ -519,6 +578,7 @@ Teleport away from Jade
 Teleport to LOHAC
 
 ==>
+	Caption: John (Retcon)
 	Interrupt Dave, Jade
 	8302-8304
 
@@ -572,6 +632,9 @@ Get Roxy to see her denizen
 Get Terezi to try mindy thing
 Think of phrase "there's no place like home."
 8922-8948
+
+==>
+	Caption: John (Retcon)
 	???????
 	Name: (John)
 	9059-9062
@@ -755,6 +818,5 @@ Meet Dad
 ACT 7
 10027
 
-Appear in front of Caliborn
-Be sucked into juju
-9318-9325
+Credits
+10030

@@ -1,0 +1,16 @@
+Name: Jade (B2)
+Colour: #4AC925
+Image: jade-b2.png
+Group: Guardians
+Story: MSPA
+
+	Be sent to Earth
+	Name: Jade (B2)
+	6606
+	~ Jade (B2) @ B2
+
+@B2
+Name: Jade (B2)
+Be dead, a trail of blood behind you
+Be burned by Jake
+6755-6757

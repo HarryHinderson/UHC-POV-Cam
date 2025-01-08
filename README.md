@@ -6,38 +6,12 @@ Download this mod as a ZIP file, extract it, and place it into your mods folder 
 
 ### Harry Hinderson Additional Characters Branch
 
-~~john~~
-~~rose~~
-~~dave~~
-~~jade~~
-
-dream-john
-dream-rose
-dream-dave
-dream-jade
-
-~~jane~~
-~~roxy~~
-~~dirk~~
-~~jake~~
+TODO:
 
 dream-jane
 dream-roxy
 dream-dirk
 dream-jake
-
-~~aradia~~
-~~tavros~~
-~~sollux~~
-~~karkat~~
-~~nepeta~~
-~~kanaya~~
-~~terezi~~
-~~vriska~~
-~~equius~~
-~~gamzee~~
-~~eridan~~
-~~feferi~~
 
 dream-aradia
 dream-tavros
@@ -53,119 +27,19 @@ dream-gamzee
 dream-eridan
 dream-feferi
 
-~~handmaid~~
-~~condesce~~
+seppucrowsprite
 
-~~dad~~
-~~nanna~~
-~~mom~~
-~~bro~~
-~~grandpa~~
-~~becquerel~~
+auto-responder-dirk
 
-john-b2
-rose-b2
-dave-b2
-jade-b2
-~~maplehoof~~
-~~gcat~~
-~~lilcal~~
-~~mutie~~
-
-~~WV~~
-~~PM~~
-~~AR~~
-~~WQ~~
-~~WK~~
-
-~~spades-slick~~
-~~diamonds-droog~~
-~~hearts-boxcars~~
-~~clubs-deuce~~
-
-~~jack-noir~~
-
-~~jack-noir-b2~~
-
-~~jack-noir-c~~
-
-~~draconian-dignitary~~
-~~hegemonic-brute~~
-~~courtyard-droll~~
-
-~~nannasprite~~
-~~jaspersprite~~
-~~calsprite~~
-~~davesprite~~
-~~jadesprite~~
-
-~~tavrisprite~~
-~~tavrosprite~~
-~~fefetasprite~~
-~~rosesprite~~
-~~jasprosesprite2~~
-~~arquiusprite~~
-~~erisolsprite~~
-~~nepetasprite~~
-~~davepetasprite2~~
-
-~~bunny~~
-auto-responder
-~~jaspers~~
-~~serenity~~
-~~brain-ghost-dirk~~
-~~casey~~
 fedorafreak
-~~sawtooth~~
-~~squarewave~~
-~~brobot~~
-
-~~calliope~~
-~~caliborn~~
-~~lord-english~~
 
 dream-calliope
 dream-caliborn
 
-~~itchy~~
-~~doze~~
-~~trace~~
-~~clover~~
-~~fin~~
-~~die~~
-~~crowbar~~
-~~snowman~~
-~~stitch~~
-~~sawbuck~~
-~~matchsticks~~
-~~eggs~~
-~~biscuits~~
-~~quarters~~
-~~cans~~
-~~docscratch~~
-
-~~damara~~
-~~rufioh~~
-~~mituna~~
-~~kankri~~
-~~meulin~~
-~~porrim~~
-~~latula~~
-~~aranea~~
-~~horuss~~
-~~kurloz~~
-~~cronus~~
-~~meenah~~
-
-~~hussie~~
-~~hussiebot~~
-~~ms-paint~~
-~~mspa-reader~~
-
 - Update settings
 - Fully update collide/act 7
 - Fully update homepage
-- Update expected timelines/groups to make more sense (Done)
+- Update expected timelines/groups to make more sense
   - Beta Kids
   - Alpha Kids
   - Beta Trolls
