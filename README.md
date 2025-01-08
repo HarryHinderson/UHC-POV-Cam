@@ -8,11 +8,6 @@ Download this mod as a ZIP file, extract it, and place it into your mods folder 
 
 TODO:
 
-dream-jane
-dream-roxy
-dream-dirk
-dream-jake
-
 dream-aradia
 dream-tavros
 prospit-sollux
@@ -28,8 +23,6 @@ dream-eridan
 dream-feferi
 
 seppucrowsprite
-
-auto-responder-dirk
 
 fedorafreak
 
