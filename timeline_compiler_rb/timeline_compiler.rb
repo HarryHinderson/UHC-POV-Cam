@@ -132,7 +132,7 @@ def compile_timelines(timeline_directory, expected_timelines_path, images_direct
   }
     
   File.open(output_path, "w") do |output_file|
-    json_output = "json = " + to_json(output)
+    json_output = to_json(output)
     output_file.write(json_output)
   end
 
