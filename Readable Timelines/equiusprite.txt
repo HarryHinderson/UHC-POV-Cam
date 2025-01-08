@@ -2,7 +2,6 @@ Name: Equiusprite
 Colour: #E00707
 Image: equiusprite.png
 Group: Alpha Kids' Sprites
-Story: MSPA
 
 Be created
 7544

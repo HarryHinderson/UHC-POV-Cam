@@ -2,7 +2,6 @@ Name: Jade (Baby)
 Colour: #4AC925
 Image: jade.png
 Group: Kids
-Story: MSPA
 
 Be created on meteor
 3790-3791
@@ -24,7 +23,6 @@ Be sent to Earth
 
 @B1
 Caption: Jade (B1)
-Image*: jade-b1.png
 Land on factory
 3768-3769
 

@@ -2,7 +2,6 @@ Name: Dave (Baby)
 Colour: #E00707
 Image: dave.png
 Group: Kids
-Story: MSPA
 
 Be created
 3790-3791
@@ -24,7 +23,6 @@ Be sent to Earth
 
 @B1
 Caption: Dave (B1)
-Image*: dave-b1.png
 Land
 3775
 

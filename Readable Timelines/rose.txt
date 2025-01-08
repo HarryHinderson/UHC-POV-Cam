@@ -2,7 +2,6 @@ Name: Rose (Baby)
 Colour: #B536DA
 Image: rose.png
 Group: Kids
-Story: MSPA
 
 Be created
 3790-3791
@@ -23,7 +22,6 @@ Be sent to Earth
 
 @B1
 Caption: Rose (B1)
-Image*: rose-b1.png
 3779
 
 Name: Rose (Toddler)

@@ -2,7 +2,7 @@ Name: Dream Dirk
 Colour: #F2A400
 Image: dirk.png
 Group: Alpha Kids
-Story: MSPA
+ 
 
 @ever-alert
 6438-6439

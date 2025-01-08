@@ -2,7 +2,7 @@ Name: Jade (B2)
 Colour: #4AC925
 Image: jade-b2.png
 Group: Guardians
-Story: MSPA
+ 
 
 	Be sent to Earth
 	Name: Jade (B2)

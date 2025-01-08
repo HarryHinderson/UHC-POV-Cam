@@ -4,7 +4,7 @@ Name: Rose (B2)
 Colour: #B536DA
 Image: rose-b2.png
 Group: Guardians
-Story: MSPA
+ 
 
 # Be created in Rose (B1) file
 

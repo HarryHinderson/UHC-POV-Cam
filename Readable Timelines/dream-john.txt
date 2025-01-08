@@ -3,7 +3,7 @@ Colour: #0715CD
 Image: dream-john.png
 Group: Beta Kids
 
-Story: MSPA
+ 
 
 Be asleep as Gamzee uses chucklevoodoos
 5930

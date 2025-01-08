@@ -2,7 +2,7 @@ Name: ARquiusprite
 Colour: #E00707
 Image: arquiusprite.png
 Group: Alpha Kids' Sprites
-Story: MSPA
+ 
 
 	Name: ARquiusprite
 	@ retcon

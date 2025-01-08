@@ -2,7 +2,6 @@ Name: Dirk
 Colour: #F2A400
 Image: dirk.png
 Group: Alpha Kids
-Story: MSPA
 
 # Be created in Dirk (B1) file
 

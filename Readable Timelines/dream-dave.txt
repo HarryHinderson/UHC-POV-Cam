@@ -2,7 +2,7 @@ Name: Dream Dave
 Colour: #E00707
 Image: dream-dave.png
 Group: Kids
-Story: MSPA
+ 
 
 Realize you're already awake
 Dream Rose throws yarn at you

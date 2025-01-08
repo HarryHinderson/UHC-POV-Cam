@@ -2,7 +2,7 @@ Name: Dirk (AR)
 Colour: #E00707
 Image: dirk-ar.png
 Group: Alpha Kids
-Story: MSPA
+ 
 
 Colour: #F2A400
 Impersonate Dirk with Jake

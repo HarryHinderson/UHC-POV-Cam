@@ -2,7 +2,7 @@ Name: Dream Rose
 Colour: #B536DA
 Image: dream-rose.png
 Group: Kids
-Story: MSPA
+ 
 
 Jack: Ascend
 @ascend

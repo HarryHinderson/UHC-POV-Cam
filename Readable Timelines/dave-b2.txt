@@ -2,7 +2,7 @@ Name: Dave (B2)
 Colour: #E00707
 Image: dave-b2.png
 Group: Guardians
-Story: MSPA
+ 
 
 	Be sent to Earth
 	Name: Dave (B2)

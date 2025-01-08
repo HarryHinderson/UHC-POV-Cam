@@ -3,8 +3,6 @@ Colour: #0715CD
 Image: john.png
 Group: Beta Kids
 
-Story: MSPA
-
 Be created
 3790-3791
 3803-3805
@@ -24,7 +22,6 @@ B1
 
 @B1
 Caption: John (B1)
-Image*: john-b1.png
 Arrive on Earth
 3782-3783
 

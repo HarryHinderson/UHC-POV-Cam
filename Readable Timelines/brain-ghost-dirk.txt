@@ -2,7 +2,6 @@ Name: Brain Ghost Dirk
 Colour: #F2A400
 Image: brain-ghost-dirk.png
 Group: Alpha Kids
-Story: MSPA
 
 @intro
 6744-6777
