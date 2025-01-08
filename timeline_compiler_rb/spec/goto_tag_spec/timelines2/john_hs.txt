@@ -1,9 +1,0 @@
-Name: John
-Colour: #0715CD
-Image: john.png
-Group: Beta Kids
-Story: MSPA
-
-
-@masterpiece
-439-444

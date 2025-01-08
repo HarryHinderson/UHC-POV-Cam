@@ -1,8 +1,0 @@
-Name: John (Meat)
-Colour: #0715CD
-Image: john.png
-Group: Beta Kids
-Story: HSBC
-
-@wallet
-439-440

@@ -1,6 +1,0 @@
-# this is a comment
-
-calliope
-jane
-
-	#This is another comment #
