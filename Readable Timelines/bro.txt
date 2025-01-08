@@ -1,7 +1,11 @@
-Name: Bro
+Name: Dirk (B1)
 Colour: #F2A400
 Image: bro.png
 Group: Kids' Guardians
+
+Name: Dirk
+Image: dirk.png
+Group: Alpha Kids
 
 Be created
 3787
@@ -9,10 +13,26 @@ Be created
 3803
 3805
 
+	Be sent to Earth
+	Name: Dirk (B1)
+	6606 : dirk-b1.png
+	~ Dirk @ B1
+
+
 Be sent to Earth on meteor
 3840
 ==>
-	~ Dirk
+	Name: Dirk (B2)
+	Caption: Dirk (B2)
+	Image*: dirk-b2.png
+	~ Dirk@B2
+
+Caption: Dirk (B1)
+Image*: dirk-b1.png
+@B1
+
+Name: Bro
+Image: bro.png
 
 Find and adopt Dave
 3778-3779
