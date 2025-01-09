@@ -223,6 +223,14 @@ output. The main contents of the `json`{.verbatim} variable is:
 ## Changelog
 
 ### v1.0
+- Added a Ruby compiler with boatloads of new features
+- Seperated dream and waking selves
+- Added around 20 new characters (that aren't dreamselves)
+- Overhauled Jade's icons
+- Added god tier icons
+- Added caption support to the python compiler
+- Completely overhauled character groups
+- Updated readme documentation
 
 ### v0.9
 - Far too many timeline gixes to reasonably list
@@ -271,9 +279,7 @@ output. The main contents of the `json`{.verbatim} variable is:
 - Revised john.png
 - Fixed tab bug
 
-## Harry Hinderson Additional Characters Branch
-
-TODO:
+## Version 1.0 todo
 
 harlequinsprite
 
@@ -299,3 +305,13 @@ dream-caliborn
 - Update settings
 - Fully update collide/act 7
 - Fully update homepage
+
+Characters that will remain missing:
+- Troll Lusii and Sprites
+- Hussie's bullies
+- Falkor, the magical luck dragon
+- That spooky wolf head
+- Halley
+- Colonel Sassacre
+
+
