@@ -15,7 +15,7 @@ Be created
 
 	Be sent to Earth
 	Name: Dirk (B1)
-	6606 : dirk-b1.png
+	6606 : bro.png
 	~ Bro @ B1
 
 
@@ -24,11 +24,11 @@ Be sent to Earth on meteor
 ==>
 	Name: Dirk (B2)
 	Caption: Dirk (B2)
-	Image*: dirk-b2.png
+	Image*: dirk.png
 	~ Dirk@B2
 
 Caption: Dirk (B1)
-Image*: dirk-b1.png
+Image*: dirk.png
 
 Name: Bro
 Image: bro.png

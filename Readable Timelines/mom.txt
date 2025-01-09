@@ -26,7 +26,7 @@ Be sent to Earth on meteor
 	~ Roxy@B2
 
 Caption: Roxy (B1)
-Image*: roxy-b1.png
+Image*: roxy.png
 
 
 Name: Mom
