@@ -8,6 +8,8 @@ Download this mod as a ZIP file, extract it, and place it into your mods folder 
 
 TODO:
 
+harlequinsprite
+
 dream-aradia
 dream-tavros
 prospit-sollux
@@ -30,24 +32,6 @@ dream-caliborn
 - Update settings
 - Fully update collide/act 7
 - Fully update homepage
-- Update expected timelines/groups to make more sense
-  - Beta Kids
-  - Alpha Kids
-  - Beta Trolls
-  - Beta Trolls' Ancestors
-  - Beta Kids' Guardians
-  - Alpha Kids' Guardians
-  - Beta Kids' Exiles
-  - Midnight Crew
-  - Beta Kids' Agents/Alpha Kids' Agents
-  - Beta Kids' Sprites
-  - Alpha Kids' Sprites
-  - Miscellaneous 
-  - Cherubs
-  - The Felt
-  - Alpha Trolls
-  - Meta 
-    
 
 ## Changelog
 
