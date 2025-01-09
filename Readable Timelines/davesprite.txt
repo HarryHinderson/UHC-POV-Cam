@@ -16,7 +16,9 @@ Name: Doomed Dave
 Name: Davesprite
 Colour: #F2A400
 Image: davesprite.png
+
 @prototyping
+Prototype yourself
 3551
 
 Scold Terezi

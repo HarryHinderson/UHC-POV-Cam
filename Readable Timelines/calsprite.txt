@@ -3,5 +3,6 @@ Colour: #F2A400
 Image: calsprite.png
 Group: Kids' Sprites
 
+@introduction
 Help Dave fight ogres
 3541-3542
