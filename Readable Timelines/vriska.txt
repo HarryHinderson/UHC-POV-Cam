@@ -64,7 +64,8 @@ Make her pay.
 4478
 
 Ascend
-4999-5030
+4999-5029
+5030 : godtier-vriska.png
 
 Fight Black King
 4493-4504
@@ -104,6 +105,8 @@ Watch conversation between Tavros and Jade
 
 Trick John into ascending
 4979-4987
+
+Image: godtier-vriska.png
 
 Visit WV in his dreams
 Kill Tavros
@@ -156,9 +159,11 @@ Flip.
 	Be knocked out
 	9264-9288
 	
+	Image: vriska.png
+
 	Meteor montage
 	9349
-	
+
 	Put Jade to sleep
 	9305-9307
 	

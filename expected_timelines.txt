@@ -40,7 +40,6 @@ dream-equius
 gamzee
 dream-gamzee
 eridan
-dream-eridan
 feferi
 dream-feferi
 

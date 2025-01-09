@@ -95,3 +95,17 @@ Be ghost in ministrife
 7327
 
 ~ Erisolsprite
+!
+Name: Eridan (Doomed)
+Image: godtier-eridan.png
+Heal The Mayor
+6589-6590
+
+	Meteor montage
+	9349
+
+Ministrife
+7327
+
+Be double killed by LE
+7161
