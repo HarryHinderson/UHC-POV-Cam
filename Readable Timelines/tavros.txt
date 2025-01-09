@@ -47,11 +47,14 @@ Arrive on meteor
 
 Have legs removed
 4019-4020
-4650-4652
+	(Terezi's POV)
+	4650-4651
+<==
 
 Wake with new legs
-4018
 4692
+	4018
+<==
 
 Troll Dave
 2999

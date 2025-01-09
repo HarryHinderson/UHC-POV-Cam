@@ -54,8 +54,10 @@ Arrive on meteor
 4827
 
 Build robotic legs for Tavros
-4018-4020
-4650-4652
+4019-4020
+	(Terezi's POV)
+	4650-4651
+<==
 
 Explain self to Karkat
 4692

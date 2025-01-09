@@ -73,13 +73,15 @@ Follow Jade
 5905-5906
 6001-6009
 
-Enter troll's session
-4503
-5078
-5473-5477
-
 Jade: Enter
 4827
+
+	Aradia's POV
+	4503-4504
+	5078
+<==
+
+5473-5477
 
 Destroy Prospit
 5079

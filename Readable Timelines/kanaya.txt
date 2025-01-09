@@ -47,7 +47,9 @@ Arrive on meteor
 
 Cut off Tavros' legs
 4019-4020
-4650-4652
+	(Terezi's POV)
+	4650-4651
+<==
 
 Talk with Karkat when he wakes up
 4692
