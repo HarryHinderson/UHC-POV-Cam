@@ -4,7 +4,8 @@ Image: brain-ghost-dirk.png
 Group: Alpha Kids
 
 @intro
-6744-6777
+6744-6774 : dirk.png
+6775-6777
 6826-6831
 
 @terezi
