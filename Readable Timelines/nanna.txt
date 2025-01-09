@@ -22,7 +22,7 @@ Be sent to Earth
 ==>
 	Name: Jane (B2)
 	Caption: Jane (B2)
-	Image*: nanna.png
+	Image*: jane.png
 	~ Jane@B2
 
 Name: Jane (B1)
