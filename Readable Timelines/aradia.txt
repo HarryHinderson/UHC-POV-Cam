@@ -82,7 +82,7 @@ Flee to Green Sun
 5463-5476
 ======>
 5477-5513
-	Name: Doomed Aradia
+	Name: Aradia (Doomed)
 	5477-5513
 
 Visit coinflip Dave

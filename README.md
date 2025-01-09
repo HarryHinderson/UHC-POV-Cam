@@ -22,8 +22,6 @@ dream-gamzee
 dream-eridan
 dream-feferi
 
-seppucrowsprite
-
 fedorafreak
 
 dream-calliope

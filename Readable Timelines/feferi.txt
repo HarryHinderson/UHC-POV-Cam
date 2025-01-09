@@ -93,7 +93,7 @@ Be in Vriska's crew
 	Remem8er.
 	9859
 		
-		Name: Doomed Feferi
+		Name: Feferi (Doomed)
 		Image: godtier-feferi.png
 		Heal The Mayor
 		6589-6590

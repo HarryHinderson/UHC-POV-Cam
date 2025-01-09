@@ -227,8 +227,8 @@ Prepare for nap
 3554
 
 ==>
-	Name: Doomed Rose
-	Caption: Doomed Rose
+	Name: Rose (Doomed)
+	Caption: Rose (Doomed)
 	Talk with Dave
 	3543
 

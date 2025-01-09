@@ -175,7 +175,7 @@ Prepare to second tier prototype
 <==
 
 ==>
-	Caption: Doomed Dave
+	Caption: Dave (Doomed)
 	~ Dave @ davesprite
 
 See self come back from future
@@ -223,8 +223,8 @@ Image: daveplush.png
 Go to burn book
 3761-3762
 ==>
-	Name: Doomed Dave
-	Caption: Doomed Dave
+	Name: Dave (Doomed)
+	Caption: Dave (Doomed)
 	Be killed
 	4963-4964
 	3763-3764

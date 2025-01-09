@@ -231,8 +231,8 @@ Enter return gate
 Make rocket pack.
 3533-3537
 ==>
-	Name: Doomed John
-	Caption: Doomed John
+	Name: John (Doomed)
+	Caption: John (Doomed)
 	
 	PCHOOOOO
 	3538-3540

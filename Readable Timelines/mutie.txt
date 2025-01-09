@@ -1,4 +1,4 @@
-Name: Mutant Kitten Kitten
+Name: Mutant Kitten
 Colour: #000000
 Image: mutie.png
 Group: Alpha Kids' Guardians
