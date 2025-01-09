@@ -184,27 +184,6 @@ The files use the following format:
     4
     ```
 
--   `Story`{.verbatim}: Change which story the following pages belong
-    to. eg. `Story: a-threat-sensed`{.verbatim} `1-5`{.verbatim}
-    `Reset Story back to default`{.verbatim} `Story:`{.verbatim}
-
-    Possible stories are:
-
-    -   MSPA: Homestuck, with MSPA numbering
-    -   WV: Wayward Vagabond pages (e.g.
-        <https://www.homestuck.com/story/waywardvagabond/anunsealedtunnel>)
-    -   Snap: Snapchat stories on MSPFA
-    -   EP: Epilogue Prologue
-    -   EM: Epilogue Meat
-    -   EC: Epilogue Candy
-    -   HSBC: Beyond Canon
-    -   catnapped: Catnapped
-    -   a-treatise-on-representational-democracy: A Treatise on
-        Representational Democracy
-    -   diamonds-dames-and-dads: Diamonds, Dames, and Dads
-    -   a-threat-sensed: A Threat, Sensed
-    -   the-influencers: The Influencers
-
 The following commands change properties about the current person or
 timeline. Write the exact word, then `:`{.verbatim}, then the value you
 wish to set it to. eg. `Name: John`{.verbatim}.
