@@ -7,7 +7,7 @@ Group: Alpha Kids
 
 	Be sent to Earth
 	Name: Dirk (B2)
-	6606 : bro.png
+	6606
 	~ Dirk @ B2
 
 @B2
