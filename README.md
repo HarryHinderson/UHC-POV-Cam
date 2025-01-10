@@ -283,8 +283,6 @@ output. The main contents of the `json`{.verbatim} variable is:
 
 harlequinsprite
 
-dream-kanaya
-dream-terezi
 dream-vriska
 
 fedorafreak

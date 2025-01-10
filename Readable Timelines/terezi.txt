@@ -19,12 +19,24 @@ SHE HAS WHAT?
 Cut to explosion
 4166-4167
 
+======>
+	Caption: Dream Terezi
+	Image*: dream-terezi.png
+	~ Dream Terezi @ wake
+
 Make her pay.
 Lose eyesight
 4478
 
+4027
+
+======>
+	Caption: Dream Terezi
+	Image*: dream-terezi.png
+	~ Dream Terezi @ learn
+
 Witness hatching, death of lusus
-4024-4031
+4029-4031
 
 Become leader of red team
 3982
@@ -60,7 +72,11 @@ Talk with Vriska
 
 Join Karkat on LOBAH
 4213
-4478
+
+======>
+	Caption: Dream Terezi
+	Image*: dream-terezi.png
+	~ Dream Terezi @ slap
 
 Return to LOTAF
 Talk with Snowman
@@ -80,6 +96,11 @@ Inform Karkat of plan
 Fight Black King
 4493-4504
 5078
+
+======>
+	Caption: Dream Terezi
+	Image*: dream-terezi.png
+	~ Dream Terezi @ death
 
 Arrive on meteor
 4827
