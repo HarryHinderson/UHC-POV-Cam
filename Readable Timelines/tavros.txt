@@ -51,6 +51,15 @@ Have legs removed
 	4650-4651
 <==
 
+======>
+	Caption: Dream Tavros
+	Image*: dream-tavros.png
+	Name: Dream Tavros
+	Have dreamself killed by Jack Noir
+	4827 : dream-tavros.png
+	Be dead
+	5285
+
 Wake with new legs
 4692
 	4018

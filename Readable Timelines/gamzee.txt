@@ -48,6 +48,13 @@ Arrive on meteor
 View Tavros getting new legs
 4650
 
+======>
+	Caption: Dream Gamzee
+	Image*: dream-gamzee.png
+	Name: Dream Gamzee
+	Be killed by Jack
+	4827 : dream-gamzee.png
+
 Dance
 Charge 420 boondollars for a sleep in the horn pile
 4692

@@ -70,15 +70,15 @@ Write memo
 	Remem8er.
 	9859
 
+Be asleep
+4652
+
 ======>
 	Caption: Dream Karkat
 	Image*: dream-karkat.png
 	Name: Dream Karkat
 	Be killed by Jack
-	6875 : dream-karkat.png
-
-Be asleep
-4652
+	4827 : dream-karkat.png
 
 Wake up
 5080

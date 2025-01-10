@@ -51,6 +51,16 @@ Cut off Tavros' legs
 	4650-4651
 <==
 
+======>
+	Caption: Dream Kanaya
+	Image*: dream-kanaya.png
+	Name: Dream Kanaya
+	Have dreamself killed by Jack Noir
+	4827 : dream-kanaya.png
+	Be dead
+	5285
+
+
 Talk with Karkat when he wakes up
 4692
 
