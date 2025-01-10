@@ -61,6 +61,7 @@ Have computer blown up
 
 Be in the background
 5081
+5083-5084
 
 ======>
 	Caption: Dream Eridan
@@ -68,6 +69,8 @@ Be in the background
 	Name: Dream Eridan
 	Have dreamself killed by Jack Noir
 	5197 : dream-eridan.png
+
+5085-5087
 
 Have wand created for you
 4946-4947
