@@ -19,16 +19,13 @@ jake
 dream-jake
 
 aradia
-dream-aradia
 tavros
 dream-tavros
 sollux
-prospit-sollux
 derse-sollux
 karkat
 dream-karkat
 nepeta
-dream-nepeta
 kanaya
 dream-kanaya
 terezi
@@ -36,12 +33,9 @@ dream-terezi
 vriska
 dream-vriska
 equius
-dream-equius
 gamzee
-dream-gamzee
 eridan
 feferi
-dream-feferi
 
 dad
 nanna

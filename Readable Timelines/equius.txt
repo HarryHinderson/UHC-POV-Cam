@@ -67,9 +67,22 @@ Ask Dave about human class structure
 Rap with Dave
 4725-4731
 
-Witness Aridia randomly exploding
+Just kind of stand there
+4710
+
+Witness Aradia randomly explode
 5081
-5083-5087
+5083-5084
+
+======>
+	Caption: Dream Equius
+	Image*: dream-equius.png
+	Name: Dream Equius
+	Have dreamself killed by Jack Noir
+	5197 : dream-equius.png
+
+
+5085-5087
 
 Tell Tavros to be careful with his new legs
 4654

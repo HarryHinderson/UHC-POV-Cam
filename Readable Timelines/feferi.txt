@@ -69,8 +69,13 @@ Be asleep in background
 4710
 5081
 
-Have dream self killed
-5197
+======>
+	Caption: Dream Feferi
+	Image*: dream-feferi.png
+	Name: Dream Feferi
+	Have dreamself killed by Jack Noir
+	5197 : dream-feferi.png
+
 
 Visit Jade in dream bubble
 Contact Jade after she wakes

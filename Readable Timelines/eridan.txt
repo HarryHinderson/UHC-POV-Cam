@@ -59,9 +59,15 @@ Have computer blown up
 4705-4706
 4710
 
-Witness Aridia randomly exploding
+Be in the background
 5081
-5083-5087
+
+======>
+	Caption: Dream Eridan
+	Image*: dream-eridan.png
+	Name: Dream Eridan
+	Have dreamself killed by Jack Noir
+	5197 : dream-eridan.png
 
 Have wand created for you
 4946-4947

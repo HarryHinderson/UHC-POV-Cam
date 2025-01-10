@@ -50,12 +50,19 @@ Ask Rose to talk with Jaspers
 Finish conversation with Jaspers
 5794
 
-Have dreamself killed by Jack Noir
-5197
-
 Witness Aradia randomly explode
 5081
-5083-5087
+5083-5084
+
+======>
+	Caption: Dream Nepeta
+	Image*: dream-nepeta.png
+	Name: Dream Nepeta
+	Have dreamself killed by Jack Noir
+	5197 : dream-nepeta.png
+
+
+5085-5087
 
 Inform past of Derse's destruction
 4654
