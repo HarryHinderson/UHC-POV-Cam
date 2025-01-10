@@ -35,6 +35,13 @@ Play chess with Caliborn
 Be pestered by Jane
 6862
 
+======>
+	Caption: Dream Calliope
+	Image*: dream-calliope.png
+	Name: Dream Nepeta
+	Be killed by Jack
+	6875 : dream-calliope.png
+
 Cheer Jake
 6914-6915
 

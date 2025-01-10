@@ -292,9 +292,6 @@ dream-vriska
 
 fedorafreak
 
-dream-calliope
-dream-caliborn
-
 - Update settings
 - Fully update collide/act 7
 - Fully update homepage
