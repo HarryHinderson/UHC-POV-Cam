@@ -24,7 +24,6 @@ dream-tavros
 sollux
 derse-sollux
 karkat
-dream-karkat
 nepeta
 kanaya
 dream-kanaya

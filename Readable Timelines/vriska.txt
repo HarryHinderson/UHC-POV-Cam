@@ -88,10 +88,21 @@ Contact John
 4553
 4561-4575
 4623-4625
-4632-4636
-4684-4687
 
-# 4692 has future Vriska at this point
+Witness Aradia randomly exploding
+5081
+5083-5086
+
+Respond to Terezi's memo
+4654
+
+Tell John he won't see her again in a few hours
+4632-4636
+
+Leave at this point, approximately
+
+Be contacted by John
+4684-4687
 
 Notice John's planet is on fire
 Tell John about having created Bec Noir

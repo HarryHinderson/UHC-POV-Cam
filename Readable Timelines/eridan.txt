@@ -59,9 +59,8 @@ Have computer blown up
 4705-4706
 4710
 
-Be in the background
+Witness Aradia exploding
 5081
-5083-5084
 
 ======>
 	Caption: Dream Eridan
@@ -70,7 +69,8 @@ Be in the background
 	Have dreamself killed by Jack Noir
 	5197 : dream-eridan.png
 
-5085-5087
+
+5083-5086
 
 Have wand created for you
 4946-4947
