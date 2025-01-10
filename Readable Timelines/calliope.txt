@@ -38,7 +38,7 @@ Be pestered by Jane
 ======>
 	Caption: Dream Calliope
 	Image*: dream-calliope.png
-	Name: Dream Nepeta
+	Name: Dream Calliope
 	Be killed by Jack
 	6875 : dream-calliope.png
 
