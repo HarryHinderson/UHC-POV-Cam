@@ -97,21 +97,23 @@ Fight Black King
 4493-4504
 5078
 
+Arrive on meteor
+4827
+
+Witness destruction of Prospit
+4643-4646
+
 ======>
 	Caption: Dream Terezi
 	Image*: dream-terezi.png
 	~ Dream Terezi @ death
 
-Arrive on meteor
-4827
-
-Witness destruction of Prospit
 Report destruction on memo
 Be interrupted by future self
 Receive transfer from Dave
 Witness Dave growing up
 Troll Dave
-4643-4672
+4647-4672
 
 Karkat wakes up
 5080
