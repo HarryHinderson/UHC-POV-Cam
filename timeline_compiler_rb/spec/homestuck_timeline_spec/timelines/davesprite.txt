@@ -1,7 +1,7 @@
 Name: Davesprite
 Colour: #E00707
 Image: davescratch.png
-Group: Kids' Sprites
+Group: Beta Kids' Sprites
 
 Enter doomed timeline
 3541-3544

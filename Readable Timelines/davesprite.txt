@@ -1,7 +1,7 @@
 Name: Dave
 Colour: #E00707
 Image: davescratch.png
-Group: Kids' Sprites
+Group: Beta Kids' Sprites
  
 
 @davesprite

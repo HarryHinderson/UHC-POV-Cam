@@ -1,7 +1,7 @@
 Name: Bro
 Colour: #F2A400
 Image: bro.png
-Group: Kids' Guardians
+Group: Beta Kids' Guardians
 
 Be created
 3787

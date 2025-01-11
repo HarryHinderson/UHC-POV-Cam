@@ -1,7 +1,7 @@
 Name: Karkat
 Colour: #626262
 Image: karkat.png
-Group: Trolls
+Group: Beta Trolls
 
 Be talked to by Tavros after he jumps off a cliff
 4077

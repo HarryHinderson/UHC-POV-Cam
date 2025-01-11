@@ -1,7 +1,7 @@
 Name: Dream Rose
 Colour: #B536DA
 Image: dream-rose.png
-Group: Kids
+Group: Beta Kids
  
 
 Jack: Ascend

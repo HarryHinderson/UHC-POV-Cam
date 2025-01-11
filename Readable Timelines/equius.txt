@@ -1,7 +1,7 @@
 Name: Equius
 Colour: #000056
 Image: equius.png
-Group: Trolls
+Group: Beta Trolls
 
 You are now... oh god.
 4079

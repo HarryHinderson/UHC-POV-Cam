@@ -1,7 +1,7 @@
 Name: Dream Jade
 Colour: #4AC925
 Image: dream-jade.png
-Group: Kids
+Group: Beta Kids
  
 
 Be sleep walking

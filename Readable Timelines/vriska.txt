@@ -1,7 +1,7 @@
 Name: Vriska
 Colour: #005682
 Image: vriska.png
-Group: Trolls
+Group: Beta Trolls
 
 Shooting star
 5374

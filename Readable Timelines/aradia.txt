@@ -1,7 +1,7 @@
 Name: Aradia
 Colour: #A10000
 Image: aradia.png
-Group: Trolls
+Group: Beta Trolls
 
 Archaeology
 Name: Aradia (Past)

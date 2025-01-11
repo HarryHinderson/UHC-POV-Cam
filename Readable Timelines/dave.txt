@@ -1,7 +1,7 @@
 Name: Dave (Baby)
 Colour: #E00707
 Image: dave.png
-Group: Kids
+Group: Beta Kids
 
 Be created
 3790-3791

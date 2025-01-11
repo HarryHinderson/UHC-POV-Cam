@@ -1,7 +1,7 @@
 Name: Jadesprite
 Colour: #1F9400
 Image: jadesprite.png
-Group: Kids' Sprites
+Group: Beta Kids' Sprites
 
 Be prototyped
 5112-5117

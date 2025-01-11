@@ -1,7 +1,7 @@
 Name: Jake (B1) (Baby)
 Colour: #1F9400
 Image: jake.png
-Group: Kids' Guardians
+Group: Beta Kids' Guardians
 
 Be created
 3787

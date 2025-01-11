@@ -1,7 +1,7 @@
 Name: Sollux
 Colour: #A1A100
 Image: sollux.png
-Group: Trolls
+Group: Beta Trolls
 
 Be manipulated into killing Aradia
 5490

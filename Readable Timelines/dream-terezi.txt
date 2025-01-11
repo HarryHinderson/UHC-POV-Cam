@@ -1,7 +1,7 @@
 Name: Dream Terezi
 Image: dream-terezi.png
 Colour: #008282
-Group: Trolls
+Group: Beta Trolls
 
 @wake
 Wake up

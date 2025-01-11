@@ -1,7 +1,7 @@
 Name: Eridan
 Colour: #6A006A
 Image: eridan.png
-Group: Trolls
+Group: Beta Trolls
 
 LARP with Vriska
 4359-4361

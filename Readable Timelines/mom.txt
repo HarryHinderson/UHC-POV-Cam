@@ -1,7 +1,7 @@
 Name: Mom
 Colour: #FF6FF2
 Image: mom.png
-Group: Kids' Guardians
+Group: Beta Kids' Guardians
 
 Name: Roxy
 Image: roxy.png

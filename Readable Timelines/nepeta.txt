@@ -1,7 +1,7 @@
 Name: Nepeta
 Colour: #416600
 Image: nepeta.png
-Group: Trolls
+Group: Beta Trolls
 
 Be invited to join red team by Terezi
 3955

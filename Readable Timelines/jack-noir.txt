@@ -1,7 +1,7 @@
 Name: Jack Noir
 Colour: #000000
 Image: spades.png
-Group: Kids' Agents
+Group: Beta Kids' Agents
 
 Dad breaking out of prison
 2790-2791

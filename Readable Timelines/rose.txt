@@ -1,7 +1,7 @@
 Name: Rose (Baby)
 Colour: #B536DA
 Image: rose.png
-Group: Kids
+Group: Beta Kids
 
 Be created
 3790-3791

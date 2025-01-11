@@ -1,7 +1,7 @@
 Name: White Queen
 Colour: #FFFFFF
 Image: prospitian.png
-Group: Kids' Exiles
+Group: Beta Kids' Exiles
 
 Abdicate
 3512-3520

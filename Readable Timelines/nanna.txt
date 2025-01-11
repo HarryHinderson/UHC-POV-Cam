@@ -1,7 +1,7 @@
 Name: Nanna
 Colour: #00D5F2
 Image: nanna.png
-Group: Kids' Guardians
+Group: Beta Kids' Guardians
 
 Name: Jane
 Image: jane.png

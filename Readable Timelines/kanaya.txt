@@ -1,7 +1,7 @@
 Name: Kanaya
 Colour: #008141
 Image: kanaya.png
-Group: Trolls
+Group: Beta Trolls
 
 Meet Doc Scratch
 5220

@@ -31,60 +31,76 @@ module.exports = {
       desc: "If one or more characters link to the next page, hide the original link to the next page."
     },
     {
-      model: "Kids",
+      model: "Beta Kids",
       label: "Disable Beta Kids timelines",
-    },
-    {
-      model: "Kids' Guardians",
-      label: "Disable Beta Kids' Guardians timelines",
-    },
-    {
-      model: "Kids' Sprites",
-      label: "Disable Beta Kids' Sprites timelines",
-    },
-    {
-      model: "The Felt",
-      label: "Disable The Felt timelines",
-    },
-    {
-      model: "Kids' Exiles",
-      label: "Disable Beta Kids' Exiles timelines",
-    },
-    {
-      model: "Kids' Agents",
-      label: "Disable Beta Kids' Agents timelines",
-    },
-    {
-      model: "Midnight Crew",
-      label: "Disable Midnight Crew timelines",
-    },
-    {
-      model: "Trolls",
-      label: "Disable Trolls timelines",
-    },
-    {
-      model: "Trolls' Ancestors",
-      label: "Disable Trolls' Ancestors timelines",
     },
     {
       model: "Alpha Kids",
       label: "Disable Alpha Kids timelines",
     },
     {
-      model: "Alpha Kids' Sprites",
-      label: "Disable Alpha Kids' Sprites timelines",
+      model: "Beta Trolls",
+      label: "Disable Beta Trolls timelines",
+    },
+    {
+      model: "Beta Kids' Guardians",
+      label: "Disable Beta Kids' Guardians timelines",
+    },
+    {
+      model: "Alpha Kids' Guardians",
+      label: "Disable Alpha Kids' Guardians timelines",
+    },
+    {
+      model: "Trolls' Ancestors",
+      label: "Disable Trolls' Ancestors timelines",
+    },
+    {
+      model: "Beta Kids' Exiles",
+      label: "Disable Beta Kids' Exiles timelines",
+    },
+    {
+      model: "Midnight Crew",
+      label: "Disable Midnight Crew timelines",
+    },
+    {
+      model: "Beta Kids' Agents",
+      label: "Disable Beta Kids' Agents timelines",
     },
     {
       model: "Alpha Kids' Agents",
       label: "Disable Alpha Kids' Agents timelines",
     },
     {
-      model: "Alpha Trolls",
-      label: "Disable Alpha Trolls timelines",
+      model: "Cherubs' Agents",
+      label: "Disable Cherubs' Agents timelines",
+    },
+    {
+      model: "Beta Kids' Sprites",
+      label: "Disable Beta Kids' Sprites timelines",
+    },
+    {
+      model: "Alpha Kids' Sprites",
+      label: "Disable Alpha Kids' Sprites timelines",
+    },
+    {
+      model: "Miscellaneous",
+      label: "Disable Miscellaneous timelines",
     },
     {
       model: "Cherubs",
       label: "Disable Cherubs timelines",
+    },
+    {
+      model: "The Felt",
+      label: "Disable The Felt timelines",
+    },
+    {
+      model: "Alpha Trolls",
+      label: "Disable Alpha Trolls timelines",
+    },
+    {
+      model: "Meta",
+      label: "Disable Meta timelines",
     }],
   },
 

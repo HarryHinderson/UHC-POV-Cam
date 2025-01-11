@@ -1,7 +1,7 @@
 Name: Seppucrow
 Colour: #F2A400
 Image: davesprite.png
-Group: Kids' Sprites
+Group: Beta Kids' Sprites
 
 Be put in the weird seizure kernel
 3347-3348

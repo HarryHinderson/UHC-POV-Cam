@@ -1,7 +1,7 @@
 Name: Courtyard Droll
 Colour: #8F8F8F
 Image: clubs.png
-Group: Kids' Agents
+Group: Beta Kids' Agents
 
 Pickpocket ring from PM
 Be beaten up by Jade

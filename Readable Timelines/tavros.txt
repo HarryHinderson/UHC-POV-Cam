@@ -1,7 +1,7 @@
 Name: Tavros
 Colour: #A15000
 Image: tavros.png
-Group: Trolls
+Group: Beta Trolls
 
 Go Flarping
 4067-4077

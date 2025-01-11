@@ -1,7 +1,7 @@
 Name: Nannasprite
 Colour: #00D5F2
 Image: nannasprite.png
-Group: Kids' Guardians
+Group: Beta Kids' Guardians
 
 Sneak up on John
 2184-2185

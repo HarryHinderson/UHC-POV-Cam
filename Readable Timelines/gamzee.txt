@@ -1,7 +1,7 @@
 Name: Gamzee
 Colour: #2B0057
 Image: gamzee.png
-Group: Trolls
+Group: Beta Trolls
 
 Talk to Karkat about typing quirk, friendship
 Be introduced

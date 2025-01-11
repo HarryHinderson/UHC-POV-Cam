@@ -285,7 +285,6 @@ harlequinsprite
 
 fedorafreak
 
-- Update settings
 - Fully update collide/act 7
 - Fully update homepage
 

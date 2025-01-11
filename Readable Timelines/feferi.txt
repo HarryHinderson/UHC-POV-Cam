@@ -1,7 +1,7 @@
 Name: Feferi
 Colour: #77003C
 Image: feferi.png
-Group: Trolls
+Group: Beta Trolls
 
 Teaser
 4080-4082

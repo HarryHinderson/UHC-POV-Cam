@@ -1,7 +1,7 @@
 Name: Dream Dave
 Colour: #E00707
 Image: dream-dave.png
-Group: Kids
+Group: Beta Kids
  
 
 Realize you're already awake

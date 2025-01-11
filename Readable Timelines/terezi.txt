@@ -1,7 +1,7 @@
 Name: Terezi
 Colour: #008282
 Image: terezi.png
-Group: Trolls
+Group: Beta Trolls
 
 Talk to Aradia about Tavros losing use of his legs
 4138
