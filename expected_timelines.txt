@@ -102,9 +102,6 @@ calliope
 caliborn
 lord-english
 
-dream-calliope
-dream-caliborn
-
 lil-cal
 doc-scratch
 itchy

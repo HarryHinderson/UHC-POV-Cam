@@ -108,6 +108,7 @@ Be killed by the Red Miles
 
 ==>
 	Caption: Roxy (Dream)
+	Image*: dream-roxy.png
 	~ Dream Roxy @ john
 
 

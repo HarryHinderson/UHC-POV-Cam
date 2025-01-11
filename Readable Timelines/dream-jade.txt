@@ -53,7 +53,7 @@ Jade falls asleep, you wake up
 Prototype crow
 3344-3347
 
-3348: dream-jade-moon.png
+3348-3349: dream-jade-moon.png
 
 @rose
 Talk with Rose about dreamselves
