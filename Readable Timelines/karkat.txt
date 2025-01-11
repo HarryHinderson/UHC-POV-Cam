@@ -67,8 +67,6 @@ Arrive on meteor
 
 Write memo
 4467
-	Remem8er.
-	9859
 
 Be asleep
 4652
@@ -79,6 +77,9 @@ Be asleep
 	Name: Dream Karkat
 	Be killed by Jack
 	4827 : dream-karkat.png
+	Remem8er.
+	9859
+
 
 Wake up
 5080

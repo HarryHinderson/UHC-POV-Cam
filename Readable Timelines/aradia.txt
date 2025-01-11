@@ -88,7 +88,7 @@ Troll rose
 4708-4710
 
 Randomly explode
-5081-5087
+5081-5086
 
 Image: godtier-aradia.png
 
@@ -150,6 +150,8 @@ Fight Lord English
 ACT 7
 Witness reality crumbling
 10027
-
+	
+	Image: aradia.png
+	@remem8er
 	Remem8er.
 	9859

@@ -20,17 +20,13 @@ dream-jake
 
 aradia
 tavros
-dream-tavros
 sollux
-derse-sollux
 karkat
 nepeta
 kanaya
-dream-kanaya
 terezi
 dream-terezi
 vriska
-dream-vriska
 equius
 gamzee
 eridan

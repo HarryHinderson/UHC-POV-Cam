@@ -21,8 +21,9 @@ Lose eye, arm
 
 Make her pay.
 4478
+Caption: Vriska (Past)
 
-Get Equius to make Aridiabot
+Get Equius to make Aradiabot
 4122-4123
 
 Conspire with Aradia
@@ -63,8 +64,23 @@ Adventure on LOMAT
 Make her pay.
 4478
 
+======>
+	Caption: Dream Vriska
+	Image*: dream-vriska.png
+	Name: Dream Vriska
+	Image: dream-vriska.png
+	Ascend
+	4999-5029
+	Name: Vriska (Dead)
+	5030 : vriska.png
+
+
+Name: Vriska (Dead)
+
 Ascend
 4999-5029
+@merge
+Name: Vriska
 5030 : godtier-vriska.png
 
 Fight Black King
