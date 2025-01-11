@@ -71,15 +71,20 @@ Follow Jade
 5875-5878
 5885
 5905-5906
-6001-6009
+6001-6008
 
-Jade: Enter
-4827
+6009
+Caption: Sovereign Slayer (Past)
 
 	Aradia's POV
 	4503-4504
 	5078
 <==
+
+Jade: Enter
+4827
+
+	
 
 5473-5477
 

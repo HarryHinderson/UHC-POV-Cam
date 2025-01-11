@@ -21,15 +21,7 @@ Make her pay.
 
 Be killed
 4146-4151
-======>
-	Caption: Aradia (Dead)
-	~ Aradia @ ghost
-!
 
-This doesn't achieve the desire effect still.
-Whatever. Its not worth fiddling around with just for a macabre joke.
-
-@ghost
 Desecrate temple
 3962-3965
 3983-3984
@@ -77,6 +69,7 @@ Jack Noir arrives
 
 	@dream-bubble
 	Explore dream bubble
+	5473-5490 : aradia.png
 	5491-5513
 	
 	Caliborn: Enter
