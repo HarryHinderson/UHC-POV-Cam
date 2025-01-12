@@ -229,7 +229,7 @@ output. The main contents of the `json`{.verbatim} variable is:
 - Added around 20 new characters (that aren't dreamselves)
 - Overhauled Jade's icons
 - Added god tier icons
-- Added caption support to the python compiler
+- Added caption support to UHC POV Cam
 - Completely overhauled character groups
 - Updated readme documentation
 
