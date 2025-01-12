@@ -1,7 +1,7 @@
 Name: Damara
 Colour: #A10000
 Image: aradia.png
-Group: Alpha Trolls' Ancestors
+Group: Beta Trolls' Ancestors
 
 Arrival of the Handmaid's meteor
 5967-5968

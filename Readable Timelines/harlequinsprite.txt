@@ -1,0 +1,22 @@
+Name: Harlequinsprite
+Colour: #00D5F2
+Image: nannasprite.png
+Group: Beta Kids' Sprites
+
+Be prototyped with Harlequin
+Follow John around
+2086-2108
+
+Get really worked up
+Enter the medium
+2143-2146
+
+Hatch
+Explore with John
+2150-2153
+2158-2170
+
+Be prototyped
+2175-2181
+
+~ Nannasprite

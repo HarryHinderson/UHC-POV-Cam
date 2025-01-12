@@ -71,6 +71,7 @@ draconian-dignitary
 hegemonic-brute
 courtyard-droll
 
+harlequinsprite
 nannasprite
 jaspersprite
 seppucrowsprite

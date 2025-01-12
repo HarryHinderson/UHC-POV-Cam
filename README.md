@@ -224,6 +224,7 @@ output. The main contents of the `json`{.verbatim} variable is:
 
 ### v1.0
 - Added a Ruby compiler with boatloads of new features
+- Added another thorough smattering of Timeline fixes and overhauls
 - Seperated dream and waking selves
 - Added around 20 new characters (that aren't dreamselves)
 - Overhauled Jade's icons
@@ -280,8 +281,6 @@ output. The main contents of the `json`{.verbatim} variable is:
 - Fixed tab bug
 
 ## Version 1.0 todo
-
-harlequinsprite
 
 fedorafreak
 
