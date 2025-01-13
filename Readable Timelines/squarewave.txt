@@ -27,6 +27,11 @@ Squarewave: Enter
 7154
 7159
 
+==>
+	Caption: Squarewave (retcon)
+	Credits
+	10030
+
 Witness candy coated tomfoolery
 7651-7671
 
