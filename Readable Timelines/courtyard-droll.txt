@@ -1,0 +1,63 @@
+Name: Courtyard Droll
+Colour: #8F8F8F
+Image: clubs.png
+Group: Beta Kids' Agents
+
+Pickpocket ring from PM
+Be beaten up by Jade
+3681-3691
+
+Have ring taken by Jade
+3695
+
+Be encouraged to create Becquerel
+4961-4962
+
+Give WKs sceptre to Jack
+3840
+
+Exchange crowns for package
+3849-3851
+
+Be given new mission by DD
+5460-5461
+
+Meet John, WV
+5568-5573
+5577-5589
+
+Pickpocket wallet from WV
+5790-5793
+
+Have tumor pickpocketed from you
+5828-5832
+
+Inform Jack of your success
+Be informed of actual mission
+5857-5862
+
+Succeed in actual mission
+Be killed by Jack for completing your mission
+6001-6009
+
+	#B2
+	
+	Group: Alpha Kids' Agents
+	
+	Feed the sleeping boy peanuts
+	Contact Jack about stunning success
+	6302-6307
+
+	Sendificate Jack pumpkin
+	6782
+
+	Successfully commit perfect crime
+	Contemplate happy umbrella dance
+	7531-7534
+
+	Deliver Lil' Cal for Gamzee
+	7579-7582
+	7704-7705
+
+	Indulge in trickster nonsense
+	7631-7677

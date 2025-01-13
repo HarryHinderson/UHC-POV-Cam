@@ -1,0 +1,10 @@
+Name: Dream Jake
+Colour: #1F9400
+Image: dream-jake.png
+Group: Alpha Kids
+
+Be killed by CD
+6303-6306
+
+Be dead
+6112-6115

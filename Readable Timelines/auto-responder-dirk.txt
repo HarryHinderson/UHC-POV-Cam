@@ -1,0 +1,112 @@
+Name: Dirk (AR)
+Colour: #E00707
+Image: dirk-ar.png
+Group: Alpha Kids
+ 
+
+Colour: #F2A400
+Impersonate Dirk with Jake
+6084-6085
+6091-6092
+
+Colour: #E00707
+Talk with Roxy and Dirk
+	6451
+<==
+6389-6392
+
+Talk to Dirk about Jake
+Also deal with Jane
+6453-6459
+6461-6463
+
+Deal with Jane
+6470
+
+Talk with Jake
+6476
+
+Deal with Jane
+She needs to make the entry item
+6494
+
+Jane: Enter
+I believe AR is controlling the interface
+6565
+
+Talk to Jane (Myststuck)
+6726
+
+Continue helping Jane with Myststuck
+6856
+6861
+
+Talk to uu about drawing smut
+6863-6864
+
+Gotta hurry things up here
+Help Jane with Myststuck
+Help Jake too
+
+Change of plans
+6937
+6957
+
+Zoom Out
+6938
+6958
+
+See that red stringy stuff?
+6939
+6959
+
+Deploy the devices quickly
+6940
+6960
+6941
+
+Just stay put
+6942
+6961
+
+No, stay put
+6943
+
+This is an atrocious idea
+6944
+6962
+
+Hey.
+Just wondering if you're fully abreast of the little "situation" developing on Derse.
+6976-6977
+
+I am blameless in this debacle
+I hold no accountability for this fiasco
+6948
+6965
+
+Okay, Jake and Jane were useless.
+It's all on Roxy now.
+6981
+
+It seems you are going to have to kiss me.
+7140-7150
+
+Dirk and AR start conversation off-screen
+
+Impersonate Dirk in conversation with Roxy, then stop
+Colour: #F2A400
+7535-7537
+Colour: #E00707
+
+I am scared to not exist.
+7538-7544
+
+==>
+	Caption: Dirk (AR) (retcon)
+	~ ARquiusprite @ retcon
+
+Fuck it, become ARquiusprite
+7545-7554
+
+~ ARquiusprite @ gamzee

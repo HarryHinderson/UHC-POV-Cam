@@ -1,0 +1,67 @@
+Name: Dream John
+Colour: #0715CD
+Image: dream-john.png
+Group: Beta Kids
+
+ 
+
+Be asleep as Gamzee uses chucklevoodoos
+5930
+
+Be asleep on Prospit
+2949
+
+Sleepwalk (well, fly)
+2973
+==>
+	Caption: Waking John
+	Image*: john.png
+	~ John @ wake-up-and-talk-to-jade
+
+Be asleep
+3530
+
+Jade wakes you up
+3840
+
+@dead-jade
+Recover ring from dream Jade
+3846-3847
+
+Meet PM
+Be given package
+Meet Jack Noir
+Be protected by bunny
+3852-3862
+3869
+
+View clouds
+3882-3886
+
+Find Dad, Mom
+Wake
+Drop ring
+@find-dad
+4538-4548
+==>
+	Caption: Waking John
+	Image*: john.png
+	~ John @ wake-up-by-vriska
+
+@meet-wv
+Meet WV
+4848-4851
+==>
+	John wakes up
+	Caption: Waking John
+	Image*: john.png
+	~ John @ on-bed
+
+@ rise-up
+RISE UP.
+4987
+
+Merge with John
+Caption: Merge with Waking Self
+Image*: godtier-john.png
+~ John @ take-over

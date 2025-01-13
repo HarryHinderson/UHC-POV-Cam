@@ -1,7 +1,7 @@
 Name: Terezi
 Colour: #008282
 Image: terezi.png
-Group: Trolls
+Group: Beta Trolls
 
 Talk to Aradia about Tavros losing use of his legs
 4138
@@ -19,12 +19,24 @@ SHE HAS WHAT?
 Cut to explosion
 4166-4167
 
+======>
+	Caption: Dream Terezi
+	Image*: dream-terezi.png
+	~ Dream Terezi @ wake
+
 Make her pay.
 Lose eyesight
 4478
 
+4027
+
+======>
+	Caption: Dream Terezi
+	Image*: dream-terezi.png
+	~ Dream Terezi @ learn
+
 Witness hatching, death of lusus
-4024-4031
+4029-4031
 
 Become leader of red team
 3982
@@ -60,7 +72,11 @@ Talk with Vriska
 
 Join Karkat on LOBAH
 4213
-4478
+
+======>
+	Caption: Dream Terezi
+	Image*: dream-terezi.png
+	~ Dream Terezi @ slap
 
 Return to LOTAF
 Talk with Snowman
@@ -85,12 +101,19 @@ Arrive on meteor
 4827
 
 Witness destruction of Prospit
+4643-4646
+
+======>
+	Caption: Dream Terezi
+	Image*: dream-terezi.png
+	~ Dream Terezi @ death
+
 Report destruction on memo
 Be interrupted by future self
 Receive transfer from Dave
 Witness Dave growing up
 Troll Dave
-4643-4672
+4647-4672
 
 Karkat wakes up
 5080
@@ -125,8 +148,11 @@ Send link to Google LOWAS
 3584-3585
 
 Laugh at Karkat watching John's reunion with loving wife and daughter
-5081
 3831
+5081
+
+Witness Aradia randomly explode
+5083-5086
 
 Troll Dave
 3834-3835
@@ -174,11 +200,13 @@ Give Sollux tips on being blind
 5376-5378
 
 Be attacked
-Have puncture holes on neck
-5417
 
 Join others in dream bubble
 5504-5508
+
+Wake up
+5417
+5419
 
 Tell Dave of problems
 5597-5610
@@ -305,11 +333,18 @@ Flip.
 5660
 
 Look into future
+5670-5675
+
+======>
+	Name: Terezi (Doomed)
+	5676-5677
+	5697
+	Be killed by Jack
+	5713
+<======
+
 Kill Vriska
-5670-5677
-5697-5707
-5710-5714
-5720-5748
+5732-5748
 
 Attempt rare and highly dangerous 5x SHOWDOWN COMBO.
 Shoosh, pap.

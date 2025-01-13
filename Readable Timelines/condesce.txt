@@ -1,7 +1,7 @@
 Name: The Condesce
 Colour: #77003C
 Image: condesce.png
-Group: Trolls' Ancestors
+Group: Beta Trolls' Ancestors
 
 Travel to distant planets, and enslave them
 5963-5964
@@ -27,7 +27,23 @@ Colonize Earth
 Be queen of Derse
 6472
 
+6844
+
 7471
+
+Tell Roxy to step off
+7601
+
+Decline to put Roxy in jail
+7632
+
+ACT 6 ACT 5 ACT 1 x2 COMBO!!
+Watch Alpha kids become god-tier
+Spring trap
+7727-7761
+7784-7825
+
+7826-7827
 
 Prepare to fight John, Rose, Kanaya, Roxy
 9882-9886

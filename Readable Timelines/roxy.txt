@@ -3,6 +3,14 @@ Colour: #FF6FF2
 Image: roxy.png
 Group: Alpha Kids
 
+# Be created in Roxy (B1) file
+
+	Be sent to Earth
+	Name: Roxy (B2)
+	6606 
+	~ Roxy @ B2
+
+@B2
 Talk to Jane
 6055-6057
 
@@ -15,10 +23,17 @@ Talk to Jake
 Grab gun
 Mess around
 Black out
-Sleepwalk.
+6370-6385
+
+==>
+	Caption: Dream Roxy
+	Image*: dream-roxy.png
+	~ Dream Roxy @ sleepwalk
+
+Be asleep
 Wake up
 Talk with Dirk, Lil' Hal
-6370-6390
+6386-6390
 
 Talk with Jane
 Appearify Unabridged Colonel Sassacre's
@@ -55,6 +70,9 @@ You got a lab full of cats, a skirt full of scamper, and a head full of vodka.
 Hide!!!!!
 6552-6561
 
+Ascend
+6565
+
 Talk to Jane
 6722
 
@@ -79,15 +97,24 @@ Learn Calliope's species
 
 Attempt to save Jake
 Be killed by the Red Miles
-7076-7080
+7076-7081
 7083-7084
 7086
+
+==>
 	Remem8er.
+	Caption: Roxy (Dead)
 	9859
 
+==>
+	Caption: Roxy (Dream)
+	Image*: dream-roxy.png
+	~ Dream Roxy @ john
+
+
 Be revived by Dirk
-Find Jane's body
-Attempt to revive Jane
+@revival
+Image: dream-roxy.png
 7138
 
 Unite.
@@ -96,11 +123,13 @@ Unite.
 Meet up on Jake's island
 7156-7157
 
-Talk to Calliborn
+Talk to Caliborn
 7359-7366
 
 Enter
 7160
+
+Image: roxy.png
 
 Progress through game
 7338
@@ -148,21 +177,23 @@ Image: roxy.png
 
 Act 6 Act 5 Act 1 x2 combo
 Be on sacrificial slab
-7688-7690-2
+7688-7691-2
 
 Talk with Jake, Jane
-7694-7720-2
+7694-7721-2
 
 Ascend
-7740-7748-2
-7756-7760-2
+7740-7749-2
+7756 : godtier-roxy.png
+Image: godtier-roxy.png
+7758-7761-2
 
 Fall into trap x2 combo
-7784
-7806-7810-2
+7784-7785-2
+7806-7811-2
 
 Be dragged by Jade to Derse
-7814-7824-2
+7814-7825-2
 
 Be given mission by Jade
 Be intimidated by Jade
@@ -343,9 +374,5 @@ Witness John meeting Dad
 ACT 7
 10027
 
-Appear in front of Caliborn
-Witness bisection of Gamzee
-Be defeated
-Witness defeat of Caliborn
-Banish Lil' Cal into the void
-9318-9345
+Credits
+10030

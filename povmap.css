@@ -41,7 +41,7 @@
 }
 
 /* colors */
-.povmap .beta a, .povmap .alpha a, .povmap .jr2 a, .povmap .dp2 a { text-decoration: none;}
+.povmap .beta a, .povmap .alpha a, .povmap .jr2 a, .povmap .dp2 a { text-decoration: underline;}
 .povmap .beta c, .povmap .alpha c, .povmap .jr2 c, .povmap .dp2 c { text-decoration: underline;}
 
 .povmap .beta c:nth-child(1) { color: #0715cd }
@@ -53,8 +53,16 @@
 .povmap .alpha c:nth-child(3) { color: #f2a400 }
 .povmap .alpha c:nth-child(4) { color: #1f9400 }
 
-.povmap .dad a { color: #4B4B4B }
-.povmap .bec a { color: #FFFFFF; text-shadow: 1px 1px 0 #000000; }
+.povmap .misc .left div:nth-child(1) a { color: #4B4B4B }
+.povmap .misc .left div:nth-child(2) a { color: #FFFFFF; text-shadow: 1px 1px 0 #000000; }
+.povmap .misc .left div:nth-child(3) a { color: #000000 }
+.povmap .misc .left div:nth-child(4) a { color: #000000 }
+.povmap .misc .left div:nth-child(5) a { color: #FF7BF7 }
+.povmap .misc .right div:nth-child(1) a { color: #4B4B4B }
+.povmap .misc .right div:nth-child(2) a { color: #FFFFFF; text-shadow: 1px 1px 0 #000000; }
+.povmap .misc .right div:nth-child(3) a { color: #000000 }
+.povmap .misc .right div:nth-child(4) a { color: #000000 }
+.povmap .misc .right div:nth-child(5) a { color: #4b4b4b }
 
 .povmap .trolls div div:nth-child(1) a { color: #a10000 }
 .povmap .trolls div div:nth-child(2) a { color: #a15000 }
@@ -70,6 +78,7 @@
 .povmap .trolls div div:nth-child(12) a { color: #77003c }
 
 .povmap .trolls .pre div:nth-child(4) a { color: #ff0000 }
+.povmap .handmaid a { color: #a10000 }
 .povmap .hic a { color: #77003c }
 
 .povmap .cherubs .left div:nth-child(1) a { color: #929292 }
@@ -86,25 +95,29 @@
 .povmap .agents div:nth-child(1) a { color: #BF0000 }
 .povmap .agents div:nth-child(2) a { color: #C39797 }
 .povmap .agents div:nth-child(3) a { color: #8F8F8F }
+.povmap .agents div:nth-child(4) a { color: #000000 }
 
 .povmap .sovereignslay a { color: #1F9400 }
 
 .povmap .jackeng a { color: #2ED73A }
 
 .povmap .sprites .left div:nth-child(1) a { color: #00d5f2 }
-.povmap .sprites .left div:nth-child(2) a { color: #f2a400 }
-.povmap .sprites .left div:nth-child(3) a { color: #4ac925 }
-.povmap .sprites .left div:nth-child(4) a { color: #0715cd }
-.povmap .sprites .left div:nth-child(5) a { color: #b536da }
-.povmap .sprites .left div:nth-child(6) a { color: #1f9400 }
-.povmap .sprites .left div:nth-child(7) a { color: #e00707 }
+.povmap .sprites .left div:nth-child(2) a { color: #00d5f2 }
+.povmap .sprites .left div:nth-child(3) a { color: #f2a400 }
+.povmap .sprites .left div:nth-child(4) a { color: #1F9400 }
+.povmap .sprites .left div:nth-child(5) a { color: #0715cd }
+.povmap .sprites .left div:nth-child(6) a { color: #b536da }
+.povmap .sprites .left div:nth-child(7) a { color: #1f9400 }
+.povmap .sprites .left div:nth-child(8) a { color: #e00707 }
 
-.povmap .sprites .right div:nth-child(1) a { color: #f141ef }
-.povmap .sprites .right div:nth-child(2) a { color: #f2a400 }
-.povmap .sprites .right div:nth-child(3) a { color: transparent }
-.povmap .sprites .right div:nth-child(4) a { color: #0715cd }
-.povmap .sprites .right div:nth-child(5) a { color: #b536da }
-.povmap .sprites .right div:nth-child(6) a { color: #1f9400 }
+.povmap .sprites .right div:nth-child(1) a { color: #f2a400 }
+.povmap .sprites .right div:nth-child(2) a { color: #f141ef }
+.povmap .sprites .right div:nth-child(3) a { color: #f2a400 }
+.povmap .sprites .right div:nth-child(4) a { color: transparent }
+.povmap .sprites .right div:nth-child(5) a { color: #0715cd }
+.povmap .sprites .right div:nth-child(6) a { color: #b536da }
+.povmap .sprites .right div:nth-child(7) a { color: #1f9400 }
+.povmap .sprites .right div:nth-child(8) a { color: #e00707 }
 
 .povmap .jr2 c:nth-child(1) { color: #f141ef }
 .povmap .jr2 c:nth-child(2) { color: #b536da }
@@ -121,3 +134,7 @@
 .povmap .felt div:nth-child(5) a { color: #FF6000 }
 .povmap .felt div:nth-child(6) a { color: #008140 }
 .povmap .felt div:nth-child(7) a { color: #950015 }
+
+.povmap .hussie a { color: #000000 }
+.povmap .mspaint a { color: #ffffff; text-shadow: 1px 1px 0 #000000; }
+.povmap .mspar a { color: #0000ee }

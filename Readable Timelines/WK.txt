@@ -1,0 +1,19 @@
+Name: White King
+Colour: #FFFFFF
+Image: prospitian.png
+Group: Beta Kids' Exiles
+
+Abdicate
+3701
+
+Enter time capsule
+5162
+
+Be in time capsule
+5161
+
+Name: Writ Keeper
+
+Emerge
+Be killed
+6009

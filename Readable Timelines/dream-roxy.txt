@@ -1,0 +1,29 @@
+Name: Dream Roxy
+Colour: #FF6FF2
+Image: dream-roxy.png
+Group: Alpha Kids
+
+	(Dirk's POV)
+	6448
+<==
+@sleepwalk
+6386
+
+Waking Roxy falls past as you sleep
+6416
+
+Sleepfly into John
+@john
+6643-6658
+
+6883-6891
+6899-6913
+
+Dirk takes you out of bubble
+7105-7117
+7125-7131
+
+Be revived by Dirk
+Merge with Roxy (well, she merges with you)
+But continue on in roxy.txt
+~ Roxy @ revival

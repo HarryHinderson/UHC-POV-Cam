@@ -1,0 +1,20 @@
+Name: Lil' Cal
+Colour: #DE00FF
+Image: lilcaldream.png
+Group: The Felt
+
+1-5
+
+Change the link from 5 to 6 to lilcal.png
+6-8 will be back to lilcaldream.png
+Image*: lilcal.png
+6-8
+
+Now with a caption
+Image: lilcal.png
+100-105
+
+Caption: SO DREAMY
+Image*: lilcaldream.png
+106
+110

@@ -1,7 +1,7 @@
 Name: Equius
 Colour: #000056
 Image: equius.png
-Group: Trolls
+Group: Beta Trolls
 
 You are now... oh god.
 4079
@@ -54,8 +54,10 @@ Arrive on meteor
 4827
 
 Build robotic legs for Tavros
-4018-4020
-4650-4652
+4019-4020
+	(Terezi's POV)
+	4650-4651
+<==
 
 Explain self to Karkat
 4692
@@ -65,9 +67,20 @@ Ask Dave about human class structure
 Rap with Dave
 4725-4731
 
-Witness Aridia randomly exploding
+Just kind of stand there
+4710
+
+Witness Aradia randomly explode
 5081
-5083-5087
+
+======>
+	Caption: Dream Equius
+	Image*: dream-equius.png
+	Name: Dream Equius
+	Have dreamself killed by Jack Noir
+	5197 : dream-equius.png
+
+5083-5086
 
 Tell Tavros to be careful with his new legs
 4654

@@ -1,0 +1,77 @@
+Name: Salamander
+Colour: #FFAB00
+Image: casey.png
+Group: Miscellaneous
+
+Reunite with your father
+3500
+3501
+Name: Casey
+3502
+
+Follow John
+3506
+3533-3537
+
+==>
+	Name: Casey (Doomed)
+	Be Captchalogued
+	3538-3540
+
+Be Captchalogued
+Blast off
+3546-3549
+
+Deploy beloved daughter
+3612-3613
+
+Be adopted by Rose
+3643
+3647-3649
+
+Name: Viceroy Bubbles Von Salamander
+
+3654
+
+Alchemy session
+3702
+3705
+3713-3714
+
+Witness master slowly lose her mind
+3757
+
+TAKE US THERE, CASEY!
+3831
+
+Colour: #A200FF
+
+Give Rose her wand
+4585-4592
+
+Witness Rose break shit
+4627-4629
+
+Witness Rose get hassled
+4704-4707
+4803
+
+
+Watch Rose talk to Doc Scratch
+5099
+5526-5539
+
+Witness the blackout
+5201-5202
+5542
+
+Be introduced to everyone
+6243
+	6518
+<==
+
+Get off the ship
+7977-7981
+
+Save the day!!!
+9987

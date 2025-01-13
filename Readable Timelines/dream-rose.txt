@@ -1,0 +1,33 @@
+Name: Dream Rose
+Colour: #B536DA
+Image: dream-rose.png
+Group: Beta Kids
+ 
+
+Jack: Ascend
+@ascend
+See MEOW code
+3568
+
+Wake Dave
+3596-3604
+
+Shut up and jam.
+Throw Lil' Cal out of window
+3620-3622
+
+See John at your house
+Wake up
+3641-3642
+
+==>
+	Caption: Waking Rose
+	Image*: rose.png
+	~ Rose @ visitor
+
+Be snooped on while asleep
+4885-4887
+
+Merge with Rose
+Be revived
+~ Rose @ revived

@@ -1,10 +1,16 @@
 Name: Aradia
 Colour: #A10000
 Image: aradia.png
-Group: Trolls
+Group: Beta Trolls
 
 Archaeology
+Name: Aradia (Past)
 5479-5490
+======>
+	Caption: Aradia (Doomed)
+	Image*: aradiabot.png
+	~ Aradia (Doomed) @ dream-bubble
+Name: Aradia
 
 FLARP
 4068
@@ -57,6 +63,18 @@ Skip to the end
 Jack Noir arrives
 5078
 4827
+======>
+	Name: Aradia (Doomed)
+	Image: aradiabot.png
+
+	@dream-bubble
+	Explore dream bubble
+	5473-5490 : aradia.png
+	5491-5513
+	
+	Caliborn: Enter
+	7161
+
 
 Arrive on meteor
 4505-4524
@@ -70,20 +88,17 @@ Troll rose
 4708-4710
 
 Randomly explode
-5081-5087
+5081-5086
 
-Image: aradia.png
+Image: godtier-aradia.png
 
 Wake.
 5197
 
 Trap Jack Noir
 Flee to Green Sun
-5463-5476
-======>
-5477-5513
-	Name: Doomed Aradia
-	5477-5513
+5463-5500
+5501-5513 : aradia.png
 
 Visit coinflip Dave
 5379-5392
@@ -107,6 +122,9 @@ Give meteor push
 
 Be still alive
 7163
+
+Ministrife!
+7327
 
 Be in Vriska's crew
 7848-7914
@@ -132,6 +150,8 @@ Fight Lord English
 ACT 7
 Witness reality crumbling
 10027
-
+	
+	Image: aradia.png
+	@remem8er
 	Remem8er.
 	9859

@@ -1,7 +1,7 @@
 Name: Kanaya
 Colour: #008141
 Image: kanaya.png
-Group: Trolls
+Group: Beta Trolls
 
 Meet Doc Scratch
 5220
@@ -47,7 +47,19 @@ Arrive on meteor
 
 Cut off Tavros' legs
 4019-4020
-4650-4652
+	(Terezi's POV)
+	4650-4651
+<==
+
+======>
+	Caption: Dream Kanaya
+	Image*: dream-kanaya.png
+	Name: Dream Kanaya
+	Have dreamself killed by Jack Noir
+	4827 : dream-kanaya.png
+	Be dead
+	5285
+
 
 Talk with Karkat when he wakes up
 4692
@@ -97,6 +109,10 @@ Mention you've read her guide
 	4592
 <======
 4627-4631
+
+Witness Aradia randomly exploding
+5081
+5083-5086
 
 Try to talk Rose out of suicide mission
 4945-4947

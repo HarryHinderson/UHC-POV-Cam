@@ -1,7 +1,7 @@
 Name: Sollux
 Colour: #A1A100
 Image: sollux.png
-Group: Trolls
+Group: Beta Trolls
 
 Be manipulated into killing Aradia
 5490
@@ -27,10 +27,11 @@ See transtimeline bulletin board
 
 Be brought into game
 4370-4371
-4378-4381
+4378-4380
+4381 : derse-sollux.png
 
 Wake on moon of Derse
-4403-4415
+4403-4415 : derse-sollux.png
 
 Make her pay.
 4478
@@ -105,6 +106,9 @@ Meet friends
 Mayor arrives
 Give meteor push
 6282-6288
+
+Ministrife!
+7163
 
 ======>
 	~ Erisolsprite

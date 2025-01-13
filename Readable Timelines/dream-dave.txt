@@ -1,0 +1,47 @@
+Name: Dream Dave
+Colour: #E00707
+Image: dream-dave.png
+Group: Beta Kids
+ 
+
+Realize you're already awake
+Dream Rose throws yarn at you
+3599-3600
+3602-3604
+
+Jam with Rose
+See Rose throw dream Cal out of window
+3620-3622
+
+Show Rose her visitor
+3641-3642
+
+Look for Lil' Cal out of window
+3655
+
+==>
+	Caption: Waking Dave
+	Image*: davescratch.png
+	Wake up and jame
+	~ Dave @ wake-up-and-jam
+
+@vriska-sleep
+Jade: Wake Up
+Take off glasses while asleep
+4748
+
+
+Visit paradox sister
+4809-4812
+
+Snoop
+4885-4887
+
+==>
+	Caption: Waking Dave
+	Image*: daveaces.png
+	Wake up as Jade teleports
+	~ Dave @ jade-teleport
+
+Caption: Merge with Dave
+~ Dave @ merge

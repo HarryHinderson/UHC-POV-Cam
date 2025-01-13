@@ -1,0 +1,50 @@
+Name: Dream Jane
+Colour: #00D5F2
+Image: dream-jane.png
+Group: Alpha Kids
+
+Fly around on Prospit's moon
+See Dream Jake's dead body
+6109-6117
+
+Look at future events in Prospit's clouds
+@clouds
+6290
+
+Wake up
+Regard the miracle of a new beginning
+Be greeted by Jack Noir
+Die
+6291-6299
+
+Do some sorta lifey thing
+6307-6310
+6312-6319
+
+==>
+	Caption: Waking Jane
+	Image*: jane.png
+	~ Jane @ gcat
+
+Be asleep
+Be protected by WQ
+@wq
+6495-6501
+
+==>
+	Caption: Waking Jane
+	Image*: jane.png
+	~ Jane @ enter
+
+==>
+	Caption: Jane (Retcon)
+	Image*: godtier-jane.png
+	~ Jane @ retcon
+
+Snooze on Prospit
+6844
+
+Unite
+7152
+
+# Merge with Waking Jane

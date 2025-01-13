@@ -1,0 +1,7 @@
+Name: Calliope
+Colour: #929292
+Image: calliope.png
+Group: Cherubs
+
+Hide in vents
+392-393
