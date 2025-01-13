@@ -223,7 +223,7 @@ output. The main contents of the `json`{.verbatim} variable is:
 ## Changelog
 
 ### v1.0
-- Added a Ruby compiler with boatloads of new features
+- Added a Ruby compiler (by Boertz) with boatloads of new features
 - Added another thorough smattering of Timeline fixes and overhauls
 - Seperated dream and waking selves
 - Added around 20 new characters (that aren't dreamselves)
@@ -232,6 +232,7 @@ output. The main contents of the `json`{.verbatim} variable is:
 - Added caption support to UHC POV Cam
 - Completely overhauled character groups
 - Updated readme documentation
+- Changed the name because the old one kinda sucked
 
 ### v0.9
 - Far too many timeline gixes to reasonably list

@@ -104,7 +104,6 @@ caliborn
 lord-english
 
 lil-cal
-doc-scratch
 itchy
 doze
 trace
@@ -120,6 +119,7 @@ eggs
 biscuits
 quarters
 cans
+doc-scratch
 
 damara
 rufioh

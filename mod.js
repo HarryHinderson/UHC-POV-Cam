@@ -1,14 +1,14 @@
 let toPageString = pageNumber => pageNumber < 10000 ? `00${pageNumber}` : `0${pageNumber}`
 
 module.exports = {
-  title: "Homestuck POV Cam Port", 
-  author: "<a href='https://github.com/madman-bob/Homestuck-POV-Cam'>madman-bob</a>, ported by <a href='https://flaringk.github.io/Portfolio/'>FlaringK</a>",
+  title: "Ultimate Viewport", 
+  author: "<a href='https://github.com/madman-bob/Homestuck-POV-Cam'>madman-bob</a>, ported by <a href='https://flaringk.github.io/Portfolio/'>FlaringK</a>, forked by Harry Hinderson",
   modVersion: "1.0",
 
   summary: "A port of madman-bob's Homestuck POV Cam Chrome extension",
   description: `A port of <a href='https://github.com/madman-bob/Homestuck-POV-Cam'>madman-bob</a>'s Homestuck POV Cam Chrome extension to the UHC. <a href='https://github.com/FlaringK/UHC-POV-Cam'>Github</a><br />
   <br />
-  You can check out the beginnings of all the timelines here: <a href='/povmap'>Homestuck POV Timeline Map</a><br />
+  You can check out the beginnings of all the timelines here: <a href='/viewport'>Homestuck POV Timeline Map</a><br />
   <b>Warning! Some part of the map will contain spoilers if you have not read all of Homestuck.</b><br />
   <h3>Changing the below options will require a full reload [ctrl + r]</h3>`,
 
@@ -116,10 +116,10 @@ module.exports = {
     return {
 
       browserPages: {
-        "POVMAP": {
+        "VIEWPORT": {
           component: {
-            title: () => "Timeline Map", // Title on tab
-            next: () => `/POVMAP`, // URL (Doesn't really matter)
+            title: () => "See into Eternity. Forever.", // Title on tab
+            next: () => `/VIEWPORT`, // URL (Doesn't really matter)
             template: povPage
           },
           scss: ""
@@ -418,10 +418,10 @@ module.exports = {
         api.store.set("collideAct7Style", collideStyle + act7Style)
 
         archive.tweaks.modHomeRowItems.push({
-          href: "/povmap",
-          thumbsrc: "assets://images/Time.png",
-          title: 'Homestuck POV Timeline Map',
-          description: `<p>SPOILERS AHEAD!<br /> A list of the beginnings of each Character's point of view</p>`
+          href: "/viewport",
+          thumbsrc: "assets://images/Icon.png",
+          title: 'The Ultimate Viewport',
+          description: `<p>SPOILERS AHEAD!<br /> A list of the beginnings of each Character's timeline</p>`
         });
 
       },
