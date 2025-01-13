@@ -1,7 +1,7 @@
 Name: Eridan
 Colour: #6A006A
 Image: eridan.png
-Group: Trolls
+Group: Beta Trolls
 
 LARP with Vriska
 4359-4361
@@ -59,9 +59,18 @@ Have computer blown up
 4705-4706
 4710
 
-Witness Aridia randomly exploding
+Witness Aradia exploding
 5081
-5083-5087
+
+======>
+	Caption: Dream Eridan
+	Image*: dream-eridan.png
+	Name: Dream Eridan
+	Have dreamself killed by Jack Noir
+	5197 : dream-eridan.png
+
+
+5083-5086
 
 Have wand created for you
 4946-4947
@@ -95,3 +104,17 @@ Be ghost in ministrife
 7327
 
 ~ Erisolsprite
+!
+Name: Eridan (Doomed)
+Image: godtier-eridan.png
+Heal The Mayor
+6589-6590
+
+	Meteor montage
+	9349
+
+Ministrife
+7327
+
+Be double killed by LE
+7161

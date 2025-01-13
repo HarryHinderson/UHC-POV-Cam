@@ -1,0 +1,24 @@
+Name: Dream Terezi
+Image: dream-terezi.png
+Colour: #008282
+Group: Beta Trolls
+
+@wake
+Wake up
+4478
+
+@learn
+Learn how to smell
+4028
+
+@slap
+Slap Vriska
+
+Watch Vriska bleed to death
+5016
+5021
+5029
+
+@death
+Die
+4827

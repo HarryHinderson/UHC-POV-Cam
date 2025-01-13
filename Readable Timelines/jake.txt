@@ -1,8 +1,22 @@
-Name: Jake
+Name: Jake (Baby)
 Colour: #1F9400
 Image: jake.png
 Group: Alpha Kids
 
+# Be created in Jake (B1) file
+
+	Be sent to Earth
+	Name: Jake (B2)
+	6606
+	~ Jake (Baby) @ B2
+
+Name: Jake (Baby)
+@B2
+Find dead grandmother, burn her body
+6755
+6756-6757
+
+Name: Jake
 Be introduced
 Talk with Calliope, Lil' Hal, Jane, Lil' Hal
 6019-6020
@@ -32,6 +46,9 @@ Talk to Roxy, Jane
 Ask Jane if she likes you
 Brobot selfdestructs in background
 6472-6493
+
+Go to temple
+6565
 
 Attempt to contact Jane
 Lose consciousness
@@ -81,13 +98,25 @@ Be found by dream Dirk
 Notice Jane
 6953-6969
 
+Witness Jane be killed by Red Miles
+7038-7042
+
+	SuCH A TOTAL FuCKING GONER.
+	7043
+<==
+
 Be dragged back to transportilizer by bunny
 Fly high into the air
-7042
 7051-7064
 
 Crash land in house
 7068-7072
+
+Be viewed by Caliborn
+7073
+
+KO'D
+7075
 
 Have Dirk's head teleport in
 Wake up
@@ -125,10 +154,11 @@ Talk to Jane
 7590-7591
 
 Be found by trickster Jane
+Enter trickster mode
 7616-7625
 
 Image: tricksterjake.png
-Enter trickster mode
+
 Fly to Derse
 Convert Roxy
 Fly to LOPAN
@@ -138,35 +168,39 @@ Convert Dirk
 Witness dear, sweet precious Fefetasplosion
 Alchemize
 Go back to Act 6 Act 5 Act 1
-7626-7677
+7626-7678
 
 Image: jake.png
 
 Act 6 Act 5 Act 1 x2 combo
-7688-7691
-7694-7701
-7706-7715
+7688-7690-2
+7694-7700-2
+7706-7714-2
 
 Ascend
-7740-7749
-7754-7755
+7740-7748-2
+7754 : godtier-jake.png
+Image: godtier-jake.png
 
 Be attacked by Jack Noir
-7758-7763
+7758-7762-2
 
 Jade arrives
-7770-7775
-7778-7783
+7770-7774-2
+7778-7782-2
 
 Jade gets mind controlled
-7786-7793
+7786-7792-2
 
 Jane gets mind controlled
 Be beaten up by Jane
-7798-7809
+7798-7808-2
 
 Be taken to Derse
-7814-7825
+7814-7824-2
+
+==>
+	Caption: Jake (Retcon)
 
 	Wait for arrival of John, Roxy
 	Nervously talk with John
@@ -230,20 +264,22 @@ Be taken to Derse
 	
 	ACT 7
 	10027
-	
-	Appear in front of Caliborn
-	Witness bisection of Gamzee
-	Be defeated
-	Cause hopesplosion
-	9318-9345
+
+	Credits
+	10030
+
 
 Glitch out
 Have glitches fixed by John
 Be intimidated by Jane in Derse cell
-8335-8346
+8335
+
+8336-8346
 
 Be healed by Aranea
-8472-8486
+8472-8473
+
+8474-8486
 
 Create angels
 8490-8493

@@ -1,7 +1,8 @@
 Name: Warweary Villein
 Colour: #000000
 Image: dersite.png
-Group: Kids' Exiles
+Group: Beta Kids' Exiles
+
 
 WV?: Rise up.
 3700-3701

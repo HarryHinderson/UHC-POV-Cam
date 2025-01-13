@@ -1,7 +1,7 @@
 Name: Becquerel
 Colour: #FFFFFF
 Image: becquerel.png
-Group: Kids' Guardians
+Group: Beta Kids' Guardians
 
 Be created
 3840
@@ -46,7 +46,7 @@ Prototype self, destroy meteor
 4827
 
 Name: Becsprite
-Group: Kids' Sprites
+Group: Beta Kids' Sprites
 
 Destroy uranium imp
 4901-4913

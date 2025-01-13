@@ -1,7 +1,7 @@
-Name: Jade
+Name: Jade (Baby)
 Colour: #4AC925
-Image: jadewardrobifier.png
-Group: Kids
+Image: jade.png
+Group: Beta Kids
 
 Be created on meteor
 3790-3791
@@ -9,30 +9,56 @@ Be created on meteor
 3807
 3830-3831
 
+	Be sent to Earth
+	Name: Jade (B1)
+	6606
+	~ Jade (Baby) @ B1
+
 Be sent to Earth
 3840
+==>
+	Caption: Jade (B2)
+	Image*: jade-b2.png
+	~ Jade (B2) @ B2
 
+@B1
+Caption: Jade (B1)
 Land on factory
 3768-3769
 
 Be adopted
 3773-3775
 
+Name: Jade (Toddler)
+Image: jade-skaianet-moon.png
+Find final frog
+5879-5880
+
+@ final-frog
+5881-5883
+
+Grandpa builds dreambot
+5884
+
 Be taken on hunt with grandfather
 Wander off with Bec
 Find present
 3029-3036
 
+TODO: Maybe this is a bad place for this part
+Name: Jade (Child)
 Contact John
 4526
+
+# Dream Jade stuff to deal with (sleep walking)
 
 Image: jadediamond.png
 
 A good example of why babies should not be allowed to dual wield flintlock pistols
 4950-4954
 
-Image: jadewardrobifier.png
-
+Name: Jade
+Image: jade.png
 Wish John happy birthday
 Be contacted by Karkat with message from future self
 3425
@@ -45,73 +71,148 @@ Receive package from Jake
 3427
 
 Be introduced
-2660-2699
-
-Image: jadewardrobifier3.png
-
 Talk to Dave
-2700-2735
+Image: jade.png
+2660-2666
+
+Image: jadewardrobifier.png
+
+2667		: jade-pumpkin.png
+2668-2669	: jade-leaf.png
+2670		: jade-pumpkin.png
+2671-2673	: jade-atom.png
+2674-2677	: jade-leaf.png
+2678		: jade-ghost.png
+2679-2680	: jade-spirograph.png
+2681		: jade-leaf.png
+2682		: jade-atom.png
+2683		: jade-spirograph.png
+2684-2685	: jade-ghost.png
+2686		: jade-leaf.png
+2687		: jade-squiddle.png
+2688-2689	: jade-atom.png
+2690-2691	: jade.png
+2692		: jade-hazard.png
+2693-2694
+2695		: jade-flower.png
+2696		: jade-squiddle.png
+2697
+2698-2699	: jade.png
+
+Image:	jadewardrobifier3.png
+2700		: jade-atom.png
+2701
+2702		: jade-sun.png
+2703-2706
+2707-2714	: jade-atom.png
+2715
+2716		: jade-sun.png
+2717-2718
+2719		: jade-spirograph.png
+2720-2723	: jade-atom.png
+2724-2726	: jade-spirograph.png
+
+2727-2735
 	2282
 <==
 
-Talk with Rose
+Talk with Rose and try to talk to John
 Inform Rose she's about to lose her internet connection
-2737-2738
-2741-2743
+2737-2738 : jade-spirograph.png
+
+Try to talk to John again
+2741 : jade-spirograph.png
+
+
+	Try to talk to John again (John's perspective)
+	2010 : jade-spirograph.png
+<==
+
+Remember the future fate of John
+2742 : jade-sun.png
+2743 : jade-atom.png
+
 
 Proceed through house
 Be trolled by Karkat
-2751-2759
+2751		: jade-atom.png
+2752		: jade-spirograph.png
+2753		: jade-sun.png
+2754-2758	: jade-atom.png
+2759
 
 Fall asleep
 Strife with grandfather
-2811-2820
+2811
+2812-2813	: jade-spirograph.png
+2814-2818	: jade-atom.png
+2819-2820	: jade-sun.png
 
 Retrieve package
-2842-2845
+2842-2844       : jade-atom.png
+2845
 
 Play fetch with Becquerel
 Fall asleep
 Be taken to bed by Becquerel
-2880-2883
+2880-2882 : jade-atom.png
+2883
 
 Dream.
-2890-2898
+2890-2892
+
+==>
+	Caption: Dream Jade
+	Image*: dream-jadewardrobifier3.png
+	~ Dream Jade @ dream
+
+Sleep
+2893-2898
 
 Dream up extra arms
 Play advanced bass solo
-2926-2934
+2926
 
-Fly to John's tower
-2947-2951
-
-	
+Image: jadewardrobifier4.png
 
 Talk to John
 Wake up
 Harpoon to frog temple
 2973
+
 	(John POV)
 	2551
 <==
 	2069
 	2193
 <==
-2974
+@wake-up
+2974 : jade-ghost.png
+
 	(John POV)
 	2552
 <==
-2975-2980
+
+2975 : jade-squiddle.png
+2976
+2977 : jade-sun.png
+2978-2979
+2980 : jade-ghost.png
+
 
 Place down package, time-bait
-3012-3015
+3012 : jade-sun.png
+3013 : jade-squiddle.png
+3014 : jade-ghost.png
+3015
 
 Summon lily pads
-3045-3047
+3045 : jade-atom.png
+3046-3047
 
 Enter temple
 Wait for lotus to bloom
-3049
+3049 : jade-sun.png
 
 Take the discs.
 Switch to Jenga modus
@@ -120,7 +221,11 @@ Switch to Pictionary modus
 Be teleported home
 Install both discs
 Talk to John
-3266-3291
+3266-3267	: jade-ghost.png
+3268-3269	: jade-sun.png
+3270-3271	: jade-squiddle.png
+3272-3290	: jade-atom.png
+3291
 
 Talk with Dave
 3293
@@ -131,47 +236,46 @@ Start deploying equipment
 
 Open cruxtruder with toilet
 Be asleep
-3336-3339
+3336 : jade-atom.png
+3339 : jade-atom.png
 
-Prototype crow
-Be tricked into waking yourself up
-3344-3349
+Be robo slapped awake
+@robo-slap
+3349 : jade-sun.png
+
 
 EGG!
 3404-3416
 
 Experiment with alchemy
-3457-3477
+3457-3460
 
-Talk with Rose about dreamselves
+2461 : jade-atom.png
+
+3462-3477
+
+==>
+	Caption: Dream Jade
+	Image*: dream-jade-starhearthorseshoemoon.png
+	~ Dream Jade @ rose
+
+Be asleep
 3527
-3529-3530
+
+Be asleep
+Jack: Ascend
 3568
 
-Attack CD
-Recover WQ's ring
-3688-3699
-
-Start building
-3717-3719
-
+Be asleep
 Be trolled by Tavros
 3836
 
 Image: jade.png
 
-Witness destruction of Prospit's moon
-Have dream self die, robot explode
-3840
-
-	Remem8er.
-	9859
-	
-	~ Jadesprite
-
 Be thrown out of window
 Land on bed
 Fall asleep
+3840
 4556-4558
 
 Dream
@@ -204,8 +308,9 @@ Be not killed by Jack Noir
 5456-5457
 
 Meet Feferi in dream bubble
-4889-4898
 
+4889-4894 : jade-atom.png
+4895
 Witness John's ascension
 4987
 
@@ -226,26 +331,22 @@ Ignore Karkat
 5039
 
 Prepare for Christmas
-5041-5050
-
-Image: jadeironlass.png
-
 Be given LPOS by Eridan
-5051-5052
-
-Image: jade.png
-
-5053-5077
+5041-5050
+5051-5052	: jade-ironlass.png
+5053-5063
+5064-5065	: jade-ironlass.png
+5066-5077
 
 Use compu-sooth spectagoggles
 View John, Rose, Davesprite, doomed Dave, Dave
 Attempt to contact Tavros
 Create Jadesprite
 5096-5107
+	4968
+<==
 4969
 5108-5111
-==>
-	~ Jadesprite
 
 5112-5117
 
@@ -260,19 +361,16 @@ Talk with John
 Ask John how he got a flying car
 5315-5319
 
-Image: jadeironlass.png
-
 Be told of breeding duties by Kanaya
 Encourage Kanaya to raise matriorb
-5204-5220
+
+5204-5220 : jade-ironlass.png
 
 Tell Rose of Mom, Dad
 5536-5538
 
 Attempt to contact John about Rose
 5588-5590
-
-Image: jade.png
 
 Meet Aradia, Aradia, Sollux in dream bubble
 Meet Kanaya
@@ -303,7 +401,10 @@ Be killed by CD
 6001-6007
 
 <==
+
+@cascade
 Cascade
+Image: godtier-jade.png
 6009
 
 Level up.
@@ -405,10 +506,9 @@ Send letter to meteor
 	
 	ACT 7
 	10027
-	
-	Appear in front of Caliborn
-	Be sucked into juju
-	9318-9325
+
+	Credits
+	10030
 
 Name: Jade
 # Repeating name as need no-op to separate above split with below split
@@ -431,14 +531,14 @@ Save Jake, Jane from Union Jack
 Teleport Union Jack to the outer ring
 Be mind controlled by )(IC
 Zap tiaratop onto Jane
-7764-7791
+7764-7790-2
 Colour: #000000
-7792-7805
+7792-7804-2
 
 Beat up Dirk
 Teleport Dirk to the outer ring
 Take Roxy to Derse
-7808-7825
+7808-7824-2
 
 Intimidate Roxy
 Tell Roxy about her void powers
@@ -466,12 +566,20 @@ Create Caledfwlch
 8217-8223
 
 Attempt to fight Dave
-
+8283
+==>
+	Caption: Jade (Retcon)
 	Be interrupted by John
 	8302-8304
 
+John Retcon Loops himself out of interfering
 Push WV into lava
-8283-8285
+8284-8285
+
+NOOP to reset timeline level
+Name: Jade
+
+	John Retcon Loops himself out of interfering
 	8317-8319
 <==
 8286-8294

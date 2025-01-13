@@ -1,0 +1,18 @@
+Name: fedoraFreak
+Colour: #4b4b4b
+Image: fedorafreak.png
+Group: Miscellaneous
+
+Salvage wardrobe
+Witness neighbor's death
+2167
+
+Witness entire family's death
+4573
+
+Drink urine
+4818
+
+Talk to Nannasprite
+Die on questbed
+5854-5856

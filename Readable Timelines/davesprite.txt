@@ -1,17 +1,25 @@
-Name: Davesprite
+Name: Dave
 Colour: #E00707
 Image: davescratch.png
-Group: Kids' Sprites
+Group: Beta Kids' Sprites
+ 
+
+@davesprite
 
 Enter doomed timeline
 3541-3544
 
 Travel back in time
 Prototype self
-3548-3549
+Name: Doomed Dave
+3548-3550
+Name: Davesprite
 Colour: #F2A400
 Image: davesprite.png
-3550-3551
+
+@prototyping
+Prototype yourself
+3551
 
 Scold Terezi
 Talk to Dave

@@ -1,0 +1,109 @@
+Name: Dream Jade
+Colour: #4AC925
+Image: dream-jade.png
+Group: Beta Kids
+ 
+
+Be sleep walking
+Find final frog
+5879-5880
+
+==>
+	Caption: Waking Jade
+	Image*: jade-skaianet-moon.png
+	~ Jade (Toddler) @ final-frog
+
+Image: dream-jadewardrobifier3.png
+@dream
+2893-2898
+
+Dream up extra arms
+Play advanced bass solo
+2926
+
+Image: dream-jade-starhearthorseshoemoon.png
+
+2927
+
+2928-2929 : dream-jade-star.png
+2930
+2931 : dream-jade-heart.png
+2932
+2933 : dream-jade-horseshoe.png
+2934
+
+Fly to John's tower
+2947-2948 : dream-jade-moon.png
+2949-2951
+
+Talk to John
+2973
+
+	2069
+	2193
+	Caption: Waking Jade
+	#Image*: jadewardrobifier4.png
+	~ Jade @ wake-up
+
+# Waking Jade wakes up
+
+Jade falls asleep, you wake up
+3336-3339
+
+Prototype crow
+3344-3347
+
+3348-3349: dream-jade-moon.png
+
+@rose
+Talk with Rose about dreamselves
+3527
+3529
+
+Image: dream-jade.png
+
+3530
+
+Attack CD
+Recover WQ's ring
+3688-3699
+
+Start building
+3717-3719
+
+Be trolled by Tavros
+3836
+
+Witness destruction of Prospit's moon
+Have dream self die, robot explode
+3840
+
+
+Caption: Dream Jade (Dead)
+Name: Dream Jade (Dead)
+Land on battlefield
+Be found by John
+3846
+==>
+	Caption: Dream Jade (Body)
+	Name: Dream Jade (Body)
+	Have body recovered by Grandpa
+	3870-3872
+
+		4968
+	<==
+	Be in old lab
+	4969
+	5108-5111
+	Become Jadesprite
+	~ Jadesprite
+
+	
+Remem8er.
+9859
+
+For clarity
+Have body thrown in sprite
+5111
+	
+~ Jadesprite

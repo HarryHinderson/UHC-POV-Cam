@@ -1,7 +1,7 @@
-Name: Grandpa
+Name: Jake (B1) (Baby)
 Colour: #1F9400
-Image: grandpa.png
-Group: Kids' Guardians
+Image: jake.png
+Group: Beta Kids' Guardians
 
 Be created
 3787
@@ -9,17 +9,41 @@ Be created
 3803
 3806-3807
 
+	Be sent to Earth
+	Name: Jake (B1)
+	6606
+	~ Jake (B1) (Baby) @ B1
+
+
 Be sent to Earth
 3840
 ==>
-	~ Jake
+	Name: Jake (B2)
+	Caption: Jake (B2)
+	Image*: jake.png
+	~ Jake (Baby) @ B2
 
+Caption: Jake (B1)
+@B1
+3816
 Arrive on Earth
 Kill Colonel Sassacre
 Gain sister
 Develop taste for adventure
-3816-3822
+Name: Jake (B1)
+3817-3822
 
+	# # Buggy code
+	# # Don't move this earlier
+	# Be sent to Earth
+	# Name: Jake (B1) (Baby)
+	# 6606
+	# ~ Jake (B1) (Baby) @ B1
+
+
+
+Name: Grandpa
+Image: grandpa.png
 Arrive with Jade to island
 3774-3775
 

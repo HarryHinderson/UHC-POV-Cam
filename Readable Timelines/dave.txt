@@ -1,19 +1,28 @@
-Name: Dave
+Name: Dave (Baby)
 Colour: #E00707
 Image: dave.png
-Group: Kids
+Group: Beta Kids
 
 Be created
 3790-3791
 3803
 3806-3807
 
-Be sent to Earth
-B1
-3840
-B2
-# Timeline split to alpha Dave
+	Be sent to Earth
+	Name: Dave (B1)
+	6606
+	~ Dave (Baby) @ B1
 
+Be sent to Earth
+@B1
+3840
+==>
+	Caption: Dave (B2)
+	Image*: dave-b2.png
+	~ Dave (B2) @ B2
+
+@B1
+Caption: Dave (B1)
 Land
 3775
 
@@ -29,6 +38,7 @@ Image: hearts.png
 
 Image: dave.png
 
+Name: Dave
 Be trolled by Terezi
 4672
 
@@ -43,20 +53,26 @@ Talk to Jade
 2729
 
 Be introduced
-2209-2224
+2209-2222
 
-Talk to John about playing Sburb
-	(John's POV)
+Talk to John
+2223-2224
+
+	Talk to John from John's perspective
 	1926
 <==
-1935
-1939
 
 Check Midnight Crew
-2225-2227
+2225-2231
 
 Talk with Rose about playing Sburb
 2232-2233
+
+Talk to John about playing Sburb
+1935
+1939
+
+
 
 Play sick beats
 Have game stolen by Rambunctious crow
@@ -149,11 +165,18 @@ Enter game
 
 Prepare to second tier prototype
 3545-3546
+
+	(Hatching from WV's POV)
+	2616
+<==
+
 	(John's POV)
 	3537
 <==
+
 ==>
-	~ Davesprite
+	Caption: Dave (Doomed)
+	~ Dave @ davesprite
 
 See self come back from future
 3547-3551
@@ -167,26 +190,20 @@ Try to convince John not to skip ahead
 Convince John to rummage through Rose's stuff
 3591-3595
 
-Realise you're already awake
-3599-3601
-3605
-3602-3604
+==>
+	Caption: Dream Dave
+	Image*: dream-dave.png
+	Realize you're already awake
+	~ Dream Dave
 
-Jam with Rose
-See Rose throw dream Cal out of window
-3620-3622
+Fall asleep as Dream Rose throws yarn at Dream Dave
+3601
 
-Show Rose her visitor
-3641-3642
-
-Look for Lil' Cal out of window
-3655
-
+@wake-up-and-jam
 Wake up and jam.
 3720-3722
 
 Image: daveplush.png
-
 3723-3733
 
 Image: daveaces.png
@@ -206,7 +223,8 @@ Image: daveplush.png
 Go to burn book
 3761-3762
 ==>
-	Name: Doomed Dave
+	Name: Dave (Doomed)
+	Caption: Dave (Doomed)
 	Be killed
 	4963-4964
 	3763-3764
@@ -222,7 +240,10 @@ Throw yourself out the window.
 
 Be trolled by Terezi
 3834-3835
-3839-3840
+3839
+
+@descend
+3840
 
 Talk to Terezi
 Be convinced by future self to listen to her
@@ -248,20 +269,20 @@ Get LPOS
 
 Talk with Terezi
 Davesprite: Defend.
-4732-4740
+4732-4738
 
-Take off glasses while asleep
-4748
+==>
+	Caption: Dream Dave
+	Fall asleep due to Vriska
+	~ Dream Dave @ vriska-sleep
 
-Visit paradox sister
-4809-4812
-
-Snoop
-4885-4887
+Be asleep
+4739-4740
 
 nak nak nak
 4807-4808
 
+@jade-teleport
 Be woken by Jade teleporting past
 4901
 Caption: Sleeping
@@ -277,8 +298,8 @@ Witness John's ascension
 4987
 
 ==>
-	
 	Name: Doomed Dave
+	Caption: Doomed Dave
 	Go to sleep on Quest Bed
 	4989-4991
 	4994-4995
@@ -289,28 +310,22 @@ Witness John's ascension
 	5103
 
 	Image: dave.png
-	
 	Be in dream bubble
-	5379-5383
+	5379-5384
 
-	Image: davescratch.png
-
-	5384
-
-	Image: daveaces.png
-
+	Image*: davescratch.png
 	5385
-
-	Image: davefelt.png
-	
-	5386-5387
-	
+	Image*: daveaces.png
+	5386
+	Image*: davefelt.png
+	5387
+	Image*: davefelt.png
+	5388
 	Image: dave.png
-	
-	5388-5392
-	
-	Image: davefelt.png
-	
+	Image*: dave.png
+	5389-5392
+
+	Image*: davefelt.png
 	Be double killed
 	7161
 
@@ -354,7 +369,10 @@ Deploy cloning apparatus
 
 Assist frog breeding
 Be killed by Jack, revived into dream self by Jade
-5759-5770
+5759-5769
+
+@merge
+5770
 
 Meet up with Rose
 5772
@@ -368,6 +386,9 @@ Image: davescratch.png
 
 5780
 
+Image: dream-dave.png
+Image*: dream-dave.png
+
 Receive Tumor
 Have suicide mission stolen
 5796-5804
@@ -377,6 +398,12 @@ Be woken by DD
 
 Cascade
 6009
+
+Image: godtier-dave.png
+Image*: godtier-dave.png
+
+==>
+	Caption: Dave (Retcon)
 
 	Meteor montage
 	9349
@@ -467,10 +494,9 @@ Cascade
 	
 	ACT 7
 	10027
-	
-	Appear in front of Caliborn
-	Be sucked into juju
-	9318-9325
+
+	Credits
+	10030
 
 Arrive on meteor
 Level up
@@ -484,6 +510,9 @@ Be given push by Aradia, Sollux
 
 Hang out in dream bubble
 6386
+
+Year 1
+6585
 
 Talk to Rose, Kanaya
 Learn about alpha session
@@ -511,6 +540,7 @@ Set up ebubbles
 Fly meteor through dream bubble
 7298
 
+Year 2
 Rap while drunk Rose prepares for date with Kanaya
 7300-7308
 
@@ -536,13 +566,21 @@ Meet up with John, Jade
 8200-8223
 
 Be taunted by Jade
-
+8283
+==>
+	Caption: Dave (Retcon)
 	Be interrupted by John
 	8302-8304
 
+John Retcon Loops himself out of interfering
 Witness WV be pushed into lava pit
 Catch WV
-8283-8285
+8284-8285
+
+NOOP to reset timeline level
+Name: Dave
+
+	John Retcon Loops himself out of interfering
 	8317-8319
 <==
 8286-8296

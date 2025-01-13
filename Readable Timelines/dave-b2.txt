@@ -1,0 +1,27 @@
+Name: Dave (B2)
+Colour: #E00707
+Image: dave-b2.png
+Group: Alpha Kids' Guardians
+ 
+
+	Be sent to Earth
+	Name: Dave (B2)
+	6606
+	~ Dave (B2) @ B2
+
+@B2
+Name: Dave (B2)
+
+O
+  HOPYWOODOO
+       O  L
+6760
+
+Fighting juggalo presidents
+6766-6768
+
+Maybe fight the Condesce
+6772-6773
+
+Die
+6774

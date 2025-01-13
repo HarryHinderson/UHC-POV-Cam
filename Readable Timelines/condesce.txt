@@ -1,7 +1,7 @@
 Name: The Condesce
 Colour: #77003C
 Image: condesce.png
-Group: Trolls' Ancestors
+Group: Beta Trolls' Ancestors
 
 Travel to distant planets, and enslave them
 5963-5964

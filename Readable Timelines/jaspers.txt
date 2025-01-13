@@ -1,0 +1,55 @@
+Name: Jaspers
+Colour: #000000
+Image: jaspers.png
+Group: Miscellaneous
+
+Tell Rose stunning secret
+Be disappearified
+2829-2830
+2835-2836
+
+Name: Frigglish
+
+Be with Roxy
+6376-6377
+6379
+6387-6389
+6333
+6391
+
+Die
+6394-6403
+
+Have B2 funeral held
+6513-6516
+
+Name: Jaspers
+
+Wash up on beach
+Have B1 funeral held
+2837-2838
+
+Be in mausoleum
+Have tomb defiled
+2314-2315
+2319
+2332-2333
+2385
+2418
+2422
+2546
+2657
+
+Be catcalogued by Rose
+2739
+
+Be escapilized
+2762
+2763
+
+Be found by Rose
+2839-2840
+
+Be prototyped
+
+~ Jaspersprite

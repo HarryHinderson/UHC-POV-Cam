@@ -1,7 +1,7 @@
 Name: Jaspersprite
 Colour: #F141EF
 Image: jaspersprite.png
-Group: Kids' Sprites
+Group: Beta Kids' Sprites
 
 Be created
 Save Rose

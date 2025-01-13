@@ -1,7 +1,7 @@
 Name: Vriska
 Colour: #005682
 Image: vriska.png
-Group: Trolls
+Group: Beta Trolls
 
 Shooting star
 5374
@@ -21,8 +21,9 @@ Lose eye, arm
 
 Make her pay.
 4478
+Caption: Vriska (Past)
 
-Get Equius to make Aridiabot
+Get Equius to make Aradiabot
 4122-4123
 
 Conspire with Aradia
@@ -63,8 +64,24 @@ Adventure on LOMAT
 Make her pay.
 4478
 
+======>
+	Caption: Dream Vriska
+	Image*: dream-vriska.png
+	Name: Dream Vriska
+	Image: dream-vriska.png
+	Ascend
+	4999-5029
+	Name: Vriska (Dead)
+	5030 : vriska.png
+
+
+Name: Vriska (Dead)
+
 Ascend
-4999-5030
+4999-5029
+@merge
+Name: Vriska
+5030 : godtier-vriska.png
 
 Fight Black King
 4493-4504
@@ -87,10 +104,21 @@ Contact John
 4553
 4561-4575
 4623-4625
-4632-4636
-4684-4687
 
-# 4692 has future Vriska at this point
+Witness Aradia randomly exploding
+5081
+5083-5086
+
+Respond to Terezi's memo
+4654
+
+Tell John he won't see her again in a few hours
+4632-4636
+
+Leave at this point, approximately
+
+Be contacted by John
+4684-4687
 
 Notice John's planet is on fire
 Tell John about having created Bec Noir
@@ -104,6 +132,8 @@ Watch conversation between Tavros and Jade
 
 Trick John into ascending
 4979-4987
+
+Image: godtier-vriska.png
 
 Visit WV in his dreams
 Kill Tavros
@@ -156,9 +186,11 @@ Flip.
 	Be knocked out
 	9264-9288
 	
+	Image: vriska.png
+
 	Meteor montage
 	9349
-	
+
 	Put Jade to sleep
 	9305-9307
 	

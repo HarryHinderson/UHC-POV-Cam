@@ -1,0 +1,33 @@
+Name: Seppucrow
+Colour: #F2A400
+Image: davesprite.png
+Group: Beta Kids' Sprites
+
+Be put in the weird seizure kernel
+3347-3348
+
+Steal Dave's totem
+3406-3407
+
+Watch Dave climb
+3531-3532
+
+Descend.
+3840
+
+Prepare to second tier prototype
+3545-3546
+
+
+	(Hatching from WV's POV)
+	2616
+<==
+
+==>
+	Caption: Calsprite (Doomed)
+	~ Calsprite
+
+3548-3550
+
+==>
+	~ Davesprite @ prototyping

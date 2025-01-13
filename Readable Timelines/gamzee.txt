@@ -1,7 +1,7 @@
 Name: Gamzee
 Colour: #2B0057
 Image: gamzee.png
-Group: Trolls
+Group: Beta Trolls
 
 Talk to Karkat about typing quirk, friendship
 Be introduced
@@ -45,9 +45,25 @@ Fight Black King
 Arrive on meteor
 4827
 
+View Tavros getting new legs
+4650
+
+======>
+	Caption: Dream Gamzee
+	Image*: dream-gamzee.png
+	Name: Dream Gamzee
+	Be killed by Jack
+	4827 : dream-gamzee.png
+
 Dance
 Charge 420 boondollars for a sleep in the horn pile
 4692
+	4018
+<==
+
+Witness Aradia randomly exploding
+5081
+5083-5086
 
 Troll Dave
 Receive ICP video

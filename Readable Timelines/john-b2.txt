@@ -1,0 +1,40 @@
+# John (B2)
+
+Name: John (B2)
+Colour: #0715CD
+Image: john-b2.png
+Group: Alpha Kids' Guardians
+ 
+
+# Be created in John (B1) file
+
+	Be sent to Earth
+	Name: John (B2)
+	6606
+	~ John (B2) @ B2
+
+@B2
+Name: John (B2)
+Be dead and stuffed in Jane's house
+Lose arm
+6013
+6101-6107
+6137-6139
+
+Lose Head
+6140-6142
+
+Get head back
+6154-6155
+6156
+
+Be in background of scene as Jane tries to leave house
+6157
+6159-6160
+6163-6164
+
+Be in destroyed room as son (Dad) walks in
+6180
+
+Be sent to space by GCat
+6565

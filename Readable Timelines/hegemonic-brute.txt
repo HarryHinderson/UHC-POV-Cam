@@ -1,0 +1,26 @@
+Name: Hegemonic Brute
+Colour: #BF0000
+Image: hearts.png
+Group: Beta Kids' Agents
+
+Bring safe door
+2857
+
+Be in headlock
+2861
+
+Mug PM for WK's sceptre
+3701
+
+Be killed by PM
+3849-3850
+
+	#B2 HB
+	Group: Alpha Kids' Agents
+	
+	Have a serious axe to grind with Dirk
+	Get beheaded
+	6442-6446
+
+	Prince of Heart: Rise Up.
+	6472
