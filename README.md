@@ -1,4 +1,4 @@
-# UHC-POV-Cam
+# Ultimate Viewport
 
 A port of [madman-bob](https://github.com/madman-bob/Homestuck-POV-Cam)'s Homestuck POV Cam Chrome extension to the UHC.
 
