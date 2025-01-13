@@ -162,6 +162,7 @@ Descend
 3840
 
 ==>
+	Caption: Wizard Bunny
 	Name: Wizard Bunny
 	6029
 
@@ -181,6 +182,7 @@ Descend
 3840
 
 ==>
+	Caption: Detective Bunny
 	Name: Detective Bunny
 	6029
 
