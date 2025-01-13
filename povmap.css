@@ -62,6 +62,7 @@
 .povmap .misc .right div:nth-child(2) a { color: #FFFFFF; text-shadow: 1px 1px 0 #000000; }
 .povmap .misc .right div:nth-child(3) a { color: #000000 }
 .povmap .misc .right div:nth-child(4) a { color: #000000 }
+.povmap .misc .right div:nth-child(5) a { color: #4b4b4b }
 
 .povmap .trolls div div:nth-child(1) a { color: #a10000 }
 .povmap .trolls div div:nth-child(2) a { color: #a15000 }

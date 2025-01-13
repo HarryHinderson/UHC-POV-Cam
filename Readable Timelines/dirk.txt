@@ -11,10 +11,12 @@ Group: Alpha Kids
 	~ Dirk @ B2
 
 @B2
+Name: Dirk (Past)
 Talk with Caliborn
 Produce pornography for Caliborn
 6865-6872
 
+Name: Dirk
 Ask why Jane activated the bunny
 6156-6159
 
@@ -67,6 +69,7 @@ Go up stairs with Lil' Cal
 
 ==>
 	Be brain ghost Dirk in Jake's memory
+	Image*: brain-ghost-dirk.png
 	Caption: Brain Ghost Dirk
 	~ Brain Ghost Dirk @ intro
 
@@ -85,6 +88,7 @@ Tell Caliborn to find past Dirk
 
 ==>
 	Caption: Brain Ghost Dirk
+	Image*: brain-ghost-dirk.png
 	~ Brain Ghost Dirk @ terezi
 
 Talk with Caliborn
