@@ -175,4 +175,5 @@ Be destroyed?
 7704-7721
 
 	How'd he get here?
+	Image: lilcal.png
 	5133
