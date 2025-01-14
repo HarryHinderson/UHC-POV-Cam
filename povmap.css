@@ -53,6 +53,9 @@
 .povmap .alpha c:nth-child(3) { color: #f2a400 }
 .povmap .alpha c:nth-child(4) { color: #1f9400 }
 
+.povmap .brainghostdirk a { color: #F2A400 }
+.povmap .autoresponder a { color: #E00707 }
+
 .povmap .misc .left div:nth-child(1) a { color: #4B4B4B }
 .povmap .misc .left div:nth-child(2) a { color: #FFFFFF; text-shadow: 1px 1px 0 #000000; }
 .povmap .misc .left div:nth-child(3) a { color: #000000 }
@@ -63,6 +66,8 @@
 .povmap .misc .right div:nth-child(3) a { color: #000000 }
 .povmap .misc .right div:nth-child(4) a { color: #000000 }
 .povmap .misc .right div:nth-child(5) a { color: #4b4b4b }
+
+.povmap .bunny a { color: #BFA782 }
 
 .povmap .trolls div div:nth-child(1) a { color: #a10000 }
 .povmap .trolls div div:nth-child(2) a { color: #a15000 }

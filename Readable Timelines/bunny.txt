@@ -10,6 +10,8 @@ Be in con air
 7186
 
 ==>
+	Caption: Huggy Bear
+	Image*: lilseb.png
 	Name: Huggy Bear
 	Colour: #0A5DF5
 	Image: lilseb.png

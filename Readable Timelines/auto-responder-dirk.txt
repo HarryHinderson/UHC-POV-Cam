@@ -3,12 +3,13 @@ Colour: #E00707
 Image: dirk-ar.png
 Group: Alpha Kids
  
-
+Image: dirk.png
 Colour: #F2A400
 Impersonate Dirk with Jake
 6084-6085
 6091-6092
 
+Image: dirk-ar.png
 Colour: #E00707
 Talk with Roxy and Dirk
 	6451
