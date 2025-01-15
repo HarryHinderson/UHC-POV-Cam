@@ -69,6 +69,8 @@
 
 .povmap .bunny a { color: #BFA782 }
 
+.povmap .brobot a { color: #0A5DF5 }
+
 .povmap .trolls div div:nth-child(1) a { color: #a10000 }
 .povmap .trolls div div:nth-child(2) a { color: #a15000 }
 .povmap .trolls div div:nth-child(3) a { color: #a1a100 }
