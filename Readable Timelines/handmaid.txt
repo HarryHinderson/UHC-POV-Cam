@@ -1,11 +1,13 @@
-Name: Damara
+Name: The Handmaid
 Colour: #A10000
 Image: aradia.png
 Group: Beta Trolls' Ancestors
 
+Name: The Handmaid (Past)
 Arrival of the Handmaid's meteor
 5967-5968
 
+Name: The Handmaid
 Try to break the 5th wall
 5836
 5895-5897
@@ -19,7 +21,7 @@ Get told the story of the signless
 Meet Lord English
 5932-5981
 
-Name: The Handmaid
+Name: The Handmaid (Adult)
 Be an adult
 Fight )(IC
 5969-5971
