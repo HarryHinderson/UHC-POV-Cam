@@ -222,6 +222,15 @@ output. The main contents of the `json`{.verbatim} variable is:
 
 ## Changelog
 
+#### v1.0.3
+- Added Brobot to the homepage
+- Fixed The Handmaid's homepage link
+- Disambiguates naming in the Handmaid's timeline
+
+#### v1.0.2
+- Added Brain Ghost Dirk, AR, and the Bunny to the homepage
+- Added Huggy Bear caption to the Bunny's timeline
+
 ### v1.0
 - Added a Ruby compiler (by Boertz) with boatloads of new features
 - Added another thorough smattering of Timeline fixes and overhauls
