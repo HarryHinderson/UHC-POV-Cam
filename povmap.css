@@ -19,6 +19,13 @@
   transform: translateY(-.5em) translateY(5px); 
 }
 
+.povmap .beta {
+  transform: translateY(0.6em); 
+}
+.povmap .pageContent > .beta img {
+  transform: translateY(-.5em) translateY(5px); 
+}
+
 .povmap .flex {
   display: flex;
 }
