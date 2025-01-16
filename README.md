@@ -222,6 +222,10 @@ output. The main contents of the `json`{.verbatim} variable is:
 
 ## Changelog
 
+#### v1.0.4
+- Added 7681 to Jane's timeline due to 7680 not having any links
+- Fixed position of Beta Kids' link in the homepage
+
 #### v1.0.3
 - Added Brobot to the homepage
 - Fixed The Handmaid's homepage link
