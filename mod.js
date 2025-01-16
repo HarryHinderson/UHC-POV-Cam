@@ -129,7 +129,7 @@ module.exports = {
       styles: [
         {
           // Set collide & act 7 style manually
-          body: api.store.get("collideAct7Style", "a") // mod must be restarted twice to update; fallback is "a" since "" crashes TUHC
+          body: api.store.get("collideAct7CreditsStyle", "a") // mod must be restarted twice to update; fallback is "a" since "" crashes TUHC
         },
         {
           source: "./povmap.css"
@@ -143,6 +143,7 @@ module.exports = {
 
         let collideStyle = ""
         let act7Style = ""
+        let creditsStyle = ""
         let hideOriginalLink = api.store.get("hideOriginalLink", false)
         const tereziRetconPages = [8948, 8132, 3938, 4476, 5270, 5610, 5622, 5736].map(page => toPageString(page))
 
@@ -161,6 +162,7 @@ module.exports = {
 
             let collide = pageString == 9987
             let act7 = pageString == 10027
+            let credits = pageString == 10030
 
             let characterNextLinks = []
             let originalNextLinks = archive.mspa.story[pageString].next
@@ -227,7 +229,7 @@ module.exports = {
                     image = povData.images[image]
                   }
 
-                if (!x2Combo && !collide && !act7) {
+                if (!x2Combo && !collide && !act7 && !credits) {
                   LinkStyle += `
                       div[data-pageid*="${pageString}"] .nextArrow div:nth-last-child(${linkIndex}) {
                       position: relative;
@@ -404,6 +406,47 @@ module.exports = {
                       ${colour == "#FFFFFF" ? "text-shadow: 1px 1px 0px black;" : ""}
                     }
                       `
+                    } else if (credits) {
+                  creditsStyle += `
+                    /* Act 7 */
+                    div[data-pageid*="010030"] .nextArrow div:first-child {
+                      margin-bottom: 20px;
+                    }
+                    div[data-pageid*="010030"] .nextArrow div + div {
+                      font-size: x-large !important;
+                    }
+
+                      div[data-pageid*="${pageString}"] .nextArrow div:nth-last-child(${linkIndex}) {
+                      position: relative;
+                    }
+                      div[data-pageid*="010030"] .nextArrow div:nth-last-child(${linkIndex})${api.store.get("disableHover") ? "" : ":hover"}:before {
+                      content: "${caption}";
+                      position: absolute;
+                      top: 10px;
+                      right: calc(100% + 5px);
+                      background: white;
+                      border: solid black 1px;
+                      font-size: 12px;
+                      padding: 2px;
+                      white-space: nowrap;
+                      /* color: black; */
+                    }
+                      div[data-pageid*="010030"] .nextArrow div:nth-last-child(${linkIndex}) a {
+                      color: ${colour} !important;
+                      ${colour == "#FFFFFF" ? "text-shadow: 1px 1px 0px black;" : ""}
+                      ${linkData[4][k][0] == "010030" ? "display: none;" : ""}
+                    }
+                      div[data-pageid*="010030"] .nextArrow div:nth-last-child(${linkIndex}) p::Before {
+                      content: url("assets://images/${image}");
+                      display: inline-block;
+                      transform: translateY(5px);
+                    }
+                      div[data-pageid*="010030"] .nextArrow div:nth-last-child(${linkIndex}) p::After {
+                      ${linkData[4][k][0] == "010030" ? `content: "End of ${person}'s Timeline.";` : ""}
+                      color: ${colour};
+                      ${colour == "#FFFFFF" ? "text-shadow: 1px 1px 0px black;" : ""}
+                    }
+                      `
                 }
               }
             }
@@ -414,8 +457,8 @@ module.exports = {
           }
         }
 
-        // Store collide and act 7 style to be used on next start
-        api.store.set("collideAct7Style", collideStyle + act7Style)
+        // Store collide, credits, and act 7 style to be used on next start
+        api.store.set("collideAct7Style", collideStyle + act7Style + creditsStyle)
 
         archive.tweaks.modHomeRowItems.push({
           href: "/viewport",
