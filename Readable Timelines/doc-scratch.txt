@@ -15,10 +15,7 @@ Hire Snowman
 Raise Damara
 5967-5968
 
-Contact Vriska
-4101-4102
-
-Contact Vriska again
+Contact Vriska 
 4143-4144
 
 Be contacted by Terezi
@@ -27,6 +24,9 @@ Be contacted by Terezi
 SHE HAS WHAT?
 4163
 4166-4167
+
+Contact Vriska again
+4101-4102
 
 Talk with Aradia of Jack Noir
 4505

@@ -130,12 +130,22 @@ Cause John to change chumhandle from GT to EB
 Troll Rose
 3424
 
+Laugh at Karkat watching John's reunion with loving wife and daughter
+3831
+
 Convince John to skip ahead
 Send John map
 3478-3481
 
 Get John to return node
 3504-3507
+
+Punch Karkat
+3503
+5081
+
+Witness Aradia randomly explode
+5083-5086
 
 Send John Pchooooo code
 3533-3535
@@ -146,13 +156,6 @@ Be told to step off by Davesprite
 Apologise to John
 Send link to Google LOWAS
 3584-3585
-
-Laugh at Karkat watching John's reunion with loving wife and daughter
-3831
-5081
-
-Witness Aradia randomly explode
-5083-5086
 
 Troll Dave
 3834-3835
