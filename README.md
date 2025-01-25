@@ -222,6 +222,11 @@ output. The main contents of the `json`{.verbatim} variable is:
 
 ## Changelog
 
+#### v1.0.5
+- Changed Terezi & Karkat seeing Aradia explode from after [S] Reunite with loving Wife and Daughter to after Terezi punches Karkat
+- Moved Terezi's reaction to John's reunion before she begins trolling John
+- Fixed Doc Scratch contacting Vriska
+
 #### v1.0.4
 - Added 7681 to Jane's timeline due to 7680 not having any links
 - Fixed position of Beta Kids' link in the homepage
